@@ -1,0 +1,791 @@
+"station_id","name","physical_configuration","lat","lon","altitude","address","capacity","is_charging_station","obcn","nearby_distance","_ride_code_support","rental_uris","post_code","is_valet_station","cross_street"
+"7000","Fort York  Blvd / Capreol Ct","REGULAR",43.639832,-79.395954,0,"Fort York  Blvd / Capreol Ct",35,FALSE,"647-643-9607",500,TRUE,NA,NA,NA,NA
+"7001","Wellesley Station Green P","ELECTRICBIKESTATION",43.6649641599074,-79.3835503152689,0,"Yonge / Wellesley",23,TRUE,"416-617-9576",500,TRUE,NA,"M4Y 1G7",NA,NA
+"7002","St. George St / Bloor St W","REGULAR",43.667333,-79.399429,0,"St. George St / Bloor St W",19,FALSE,"647-643-9615",500,TRUE,NA,NA,NA,NA
+"7003","Madison Ave / Bloor St W","REGULAR",43.667158,-79.402761,NA,"Madison Ave / Bloor St W",15,FALSE,"647-631-4587",500,TRUE,NA,NA,NA,NA
+"7005","King St W / York St","REGULAR",43.6480008,-79.383177,0,"King St W / York St",23,FALSE,"647-643-9693",500,TRUE,NA,NA,NA,NA
+"7006","Bay St / College St (East Side)","REGULAR",43.660439,-79.385525,0,"Bay St / College St (East Side)",19,FALSE,"416-569-2349",500,TRUE,NA,NA,NA,NA
+"7007","College St / Huron St","REGULAR",43.658148,-79.398167,0,"College St / Huron St",19,FALSE,"647-625-3582",500,TRUE,NA,NA,NA,NA
+"7008","Wellesley St W / Queen's Park Cres","REGULAR",43.663376,-79.392125,0,"Wellesley St W / Queen's Park Cres",19,FALSE,"647-643-9648",500,TRUE,NA,NA,NA,NA
+"7009","King St E / Jarvis St","REGULAR",43.650325,-79.372287,0,"King St E / Jarvis St",25,FALSE,"647-620-8649",500,TRUE,NA,NA,NA,NA
+"7010","King St W / Spadina Ave","REGULAR",43.645323,-79.395003,0,"King St W / Spadina Ave",19,FALSE,"647-202-6537",500,TRUE,NA,NA,NA,NA
+"7012","Elizabeth St / Edward St (Bus Terminal)","REGULAR",43.656026,-79.385327,0,"Elizabeth St / Edward St (Bus Terminal)",15,FALSE,"647-643-9665",500,TRUE,NA,NA,NA,NA
+"7013","Scott St / The Esplanade","REGULAR",43.6465966317044,-79.3753091386799,0,"Scott St / The Esplanade",19,FALSE,"416-666-6440",500,TRUE,NA,"M5E 1Z4",NA,NA
+"7014","Sherbourne St / Carlton St (Allan Gardens)","REGULAR",43.663102,-79.373181,0,"Sherbourne St / Carlton St (Allan Gardens)",17,FALSE,"416-710-6764",500,TRUE,NA,NA,NA,NA
+"7015","King St W / Bay St (West Side)","REGULAR",43.64852,-79.380576,0,"King St W / Bay St (West Side)",39,FALSE,"416-671-7595",500,TRUE,NA,NA,FALSE,NA
+"7016","Bay St / Queens Quay W (Ferry Terminal)","REGULAR",43.640978,-79.376785,0,"Bay St / Queens Quay W (Ferry Terminal)",35,FALSE,"647-271-1378",500,TRUE,NA,"M5J",NA,NA
+"7017","Widmer St / Adelaide St W","SMARTMAPFRAME",43.6475476347592,-79.3915520049629,0,"Widmer St / Adelaide St W",12,FALSE,"647-631-9958",500,TRUE,NA,"M5V 1J9",NA,NA
+"7018","Bremner Blvd / Rees St","REGULAR",43.641529,-79.386741,0,"Bremner Blvd / Rees St",23,FALSE,"647-669-0947",500,TRUE,NA,NA,FALSE,NA
+"7019","Temperance St Station","VAULT",43.650945,-79.379498,0,"Temperance St. Station",27,FALSE,"9 Temperance St .",500,TRUE,NA,"M5H 1Y6",NA,NA
+"7020","Phoebe St / Spadina Ave","REGULAR",43.650033,-79.396555,NA,"Phoebe St / Spadina Ave",32,FALSE,"647-621-5766",500,TRUE,NA,NA,NA,NA
+"7021","Bay St / Albert St","REGULAR",43.653264,-79.382458,0,"Bay St / Albert St",35,FALSE,"647-643-9652",500,TRUE,NA,NA,NA,NA
+"7022","Simcoe St / Queen St W","REGULAR",43.65049,-79.3873,NA,"Simcoe St / Queen St W",39,FALSE,"647-625-3265",500,TRUE,NA,"m5v1z5",NA,NA
+"7023","College St / Borden St","REGULAR",43.6571,-79.4056,0,"College St / Borden St",11,FALSE,"647-643-9629",500,TRUE,NA,NA,NA,NA
+"7024","Dundonald St / Church St","REGULAR",43.66663,-79.38148,0,"Dundonald St / Church St",39,FALSE,"647-631-9859",500,TRUE,NA,NA,NA,NA
+"7025","Ted Rogers Way / Bloor St E","REGULAR",43.671293,-79.380471,0,"Ted Rogers Way / Bloor St E",23,FALSE,"647-631-9970",500,TRUE,NA,NA,NA,NA
+"7026","Bay St / St. Joseph St","REGULAR",43.665527,-79.387499,NA,"Bay St / St. Joseph St",15,FALSE,"416-666-0783",500,TRUE,NA,NA,NA,NA
+"7027","Beverley  St / Dundas St W","REGULAR",43.652823,-79.393388,0,"Beverley  St / Dundas St W",31,FALSE,"647-621-6739",500,TRUE,NA,NA,NA,NA
+"7028","Gould St / Mutual St","REGULAR",43.6582,-79.3768,NA,"Gould St / Mutual St",31,FALSE,"416-560-7261",500,TRUE,NA,NA,NA,NA
+"7029","Bay St / Bloor St W (East Side)","REGULAR",43.66943,-79.38915,0,"1199 Bay St",15,FALSE,"647-669-3457",500,TRUE,NA,"M6G1X2",NA,NA
+"7030","Bay St / Wellesley St W","REGULAR",43.664088,-79.387095,NA,"Bay St / Wellesley St W",51,FALSE,"647-643-9612",1609.34,TRUE,NA,NA,FALSE,NA
+"7031","Jarvis St / Isabella St","REGULAR",43.668991,-79.379385,0,"Jarvis St / Isabella St",23,FALSE,"416-569-7503",500,TRUE,NA,NA,FALSE,NA
+"7032","Augusta Ave / Dundas St W","REGULAR",43.652473,-79.401456,0,"Augusta Ave / Dundas St W",15,FALSE,"647-622-8139",500,TRUE,NA,NA,NA,NA
+"7033","Union Station","REGULAR",43.645609,-79.380386,0,"Union Station",43,FALSE,"647-620-1494",500,TRUE,NA,NA,NA,NA
+"7034","Church St / Bloor St E","REGULAR",43.671389,-79.382919,0,"Church St / Bloor St E",15,FALSE,"437-992-7029",500,TRUE,NA,NA,NA,NA
+"7035","Queen St W / Ossington Ave","REGULAR",43.643975,-79.419576,0,"Queen St W / Ossington Ave",31,FALSE,"416-371-6632",500,TRUE,NA,NA,NA,NA
+"7036","Trinity St /Front St E","REGULAR",43.651318,-79.36023,0,"Trinity St / Front St E",19,FALSE,"416-816-5603",500,TRUE,NA,NA,NA,NA
+"7037","Bathurst St / Dundas St W","REGULAR",43.6518918789007,-79.4057786171272,0,"Bathurst St / Dundas St W",27,FALSE,"647-621-8042",500,TRUE,NA,"M5T 2S3",NA,NA
+"7038","Dundas St W / Yonge St","REGULAR",43.656094,-79.381484,0,"Dundas St W / Yonge St",31,FALSE,"647-643-9714",500,TRUE,NA,NA,NA,NA
+"7039","Simcoe St / Michael Sweet Ave","REGULAR",43.652327224103,-79.3882538196087,0,"Simcoe St / Michael Sweet Ave",19,FALSE,"647-202-6089",500,TRUE,NA,"M5T3M3",NA,NA
+"7040","Euclid Ave / Bloor St W","REGULAR",43.664467,-79.414783,0,"Euclid Ave / Bloor St W",19,FALSE,"416-565-9380",500,TRUE,NA,NA,NA,NA
+"7041","Edward St / Yonge St","REGULAR",43.656729,-79.382736,NA,"Edward St / Yonge St",23,FALSE,"647-643-9697",500,TRUE,NA,NA,NA,NA
+"7042","Sherbourne St / Wellesley St E","REGULAR",43.6673,-79.374,0,"Sherbourne St / Wellesley St E",31,FALSE,"416-804-0543",500,TRUE,NA,NA,NA,NA
+"7043","Queens Quay W / Lower Simcoe St","REGULAR",43.63951,-79.383717,0,"Queens Quay W / Lower Simcoe St",19,FALSE,"647-204-1380",500,TRUE,NA,NA,NA,NA
+"7044","Church St / Alexander St","REGULAR",43.663722,-79.380288,0,"Church St / Alexander St",27,FALSE,"647-618-1341",500,TRUE,NA,NA,NA,NA
+"7045","Bond St / Queen St E","REGULAR",43.653236,-79.376716,0,"Bond St / Queen St E",37,FALSE,"647-629-0639",500,TRUE,NA,NA,FALSE,NA
+"7046","Niagara St / Richmond St W","REGULAR",43.64534,-79.409597,0,"Niagara St / Richmond St W",42,FALSE,"647-643-9655",500,TRUE,NA,NA,NA,NA
+"7047","University Ave / Gerrard St W (East Side)","REGULAR",43.657763,-79.389165,0,"University Ave / Gerrard St W",24,FALSE,"647-643-9690",500,TRUE,NA,NA,FALSE,NA
+"7048","Front St W / Yonge St (Hockey Hall of Fame)","REGULAR",43.646144,-79.377962,0,"Front St W / Yonge St (Hockey Hall of Fame)",47,FALSE,"647-204-0984",500,TRUE,NA,NA,NA,NA
+"7049","Portland St / Queen St W","REGULAR",43.6476,-79.4015,0,"Queen St W / Portland St",15,FALSE,"647-624-3144",500,TRUE,NA,NA,NA,NA
+"7050","Richmond St E / Jarvis St Green P","ELECTRICBIKESTATION",43.652634,-79.374222,0,"Richmond St E / Jarvis St Green P",16,TRUE,"416-602-5376",500,TRUE,NA,NA,NA,NA
+"7052","Wellington St W / Bay St","VAULT",43.647259,-79.379878,0,"Wellington St W / Bay St",55,FALSE,"416-723-3438",500,TRUE,NA,NA,NA,NA
+"7053","Metro Hall Plaza","REGULAR",43.645859,-79.38783,NA,"Metro Hall Plaza",27,FALSE,"647-201-7794",500,TRUE,NA,NA,NA,NA
+"7054","Navy Wharf Crt / Bremner Blvd","REGULAR",43.640722,-79.391051,0,"Navy Wharf Ct. / Bremner Blvd.",11,FALSE,"416-662-2516",500,TRUE,NA,NA,NA,NA
+"7055","Jarvis St / Carlton St","REGULAR",43.66207,-79.37617,0,"Jarvis St / Carlton St",15,FALSE,"416-722-3901",500,TRUE,NA,NA,NA,NA
+"7057","Simcoe St / Wellington St W South","VAULT",43.6458569,-79.3853654,0,"Simcoe St / Wellington St 1",27,FALSE,"647-641-2103",500,TRUE,NA,"M6a1a1",NA,NA
+"7058","Huron St / Harbord St","REGULAR",43.6637,-79.400053,0,"Huron/ Harbord St",19,FALSE,"647-643-9725",500,TRUE,NA,NA,NA,NA
+"7059","Front St W / Blue Jays Way","REGULAR",43.643473,-79.390477,0,"Front St W / Blue Jays Way",15,FALSE,"647-241-7299",500,TRUE,NA,NA,NA,NA
+"7061","Dalton Rd / Bloor St W","REGULAR",43.6662942,-79.4066433,0,"Dalton Rd / Bloor St W",15,FALSE,"647-643-9676",500,TRUE,NA,"M6G1A1",NA,NA
+"7063","Queen's Park / Bloor St W","REGULAR",43.668456,-79.393899,0,"Queen's Park / Bloor St W",23,FALSE,"647-632-5491",500,TRUE,NA,NA,NA,NA
+"7064","51 Parliament St","REGULAR",43.65205,-79.362198,0,"51 Parliament St",19,FALSE,"647-241-9519",500,TRUE,NA,NA,NA,NA
+"7065","Dundas St E / Parliament St","REGULAR",43.659575,-79.365769,0,"Dundas St E / Parliament St",15,FALSE,"416-568-2679",500,TRUE,NA,NA,NA,NA
+"7066","Willcocks St / St. George St","REGULAR",43.662085,-79.397735,0,"Willcocks St / St. George St",17,FALSE,"647-643-9624",500,TRUE,NA,NA,NA,NA
+"7068","Blantyre Park","REGULAR",43.6830689,-79.279682,0,"163 Fallingbrook Rd",22,FALSE,"437-999-9028",1609.34,TRUE,NA,"M1N 1N3",NA,"Kingston/Fallingbrook"
+"7069","Queen St W / Spadina Ave","REGULAR",43.649147,-79.395504,0,"Queen St W / Spadina Ave",11,FALSE,"647-622-8344",500,TRUE,NA,NA,NA,NA
+"7070","25 York St – Union Station South","REGULAR",43.643667,-79.380414,0,"25 York St – Union Station South",11,FALSE,"416-624-8596",500,TRUE,NA,NA,NA,NA
+"7071","161 Bleecker St (South of Wellesley)","REGULAR",43.666233,-79.373327,0,"161 Bleecker St (South of Wellesley)",23,FALSE,"647-643-9846",500,TRUE,NA,NA,NA,NA
+"7072","Fleet St / Bathurst St","REGULAR",43.636611,-79.400042,0,"Fleet St / Bathurst St",23,FALSE,"416-564-6690",500,TRUE,NA,"M6G1X2",NA,NA
+"7073","Spadina Ave / Fort York Blvd","REGULAR",43.640114,-79.393249,0,"Spadina Ave / Fort York Blvd",23,FALSE,"416-627-9646",500,TRUE,NA,NA,NA,NA
+"7074","King St E / Church St","REGULAR",43.6500392,-79.3733541,0,"St James Park",15,FALSE,"647-643-9718",500,TRUE,NA,"M5C 1G6",NA,NA
+"7075","Queens Quay W / Dan Leckie Way","REGULAR",43.636533,-79.395854,0,"Queens Quay W / Dan Leckie Way",26,FALSE,"416-669-9604",500,TRUE,NA,NA,NA,NA
+"7076","York St / Queens Quay W","REGULAR",43.640132,-79.380464,0,"York St / Queens Quay W",57,FALSE,"416-618-7456",500,TRUE,NA,NA,NA,NA
+"7077","College Park South","REGULAR",43.659777,-79.382767,0,"College Park South",19,FALSE,"647-643-9694",500,TRUE,NA,NA,NA,NA
+"7078","College St / Major St","REGULAR",43.6576,-79.4032,0,"College St / Major St",15,FALSE,"647-643-9638",500,TRUE,NA,NA,NA,NA
+"7079","McGill St / Church St","REGULAR",43.660694,-79.379052,0,"McGill St / Church St",19,FALSE,"437-999-8524",500,TRUE,NA,NA,NA,NA
+"7083","Danforth Ave / Barrington Ave","REGULAR",43.688325,-79.300463,0,"Danforth Ave / Barrington Ave",15,FALSE,"647-631-4821",500,TRUE,NA,NA,NA,NA
+"7084","High Park - Grenadier Cafe","REGULAR",43.645599,-79.4657123,0,"High Park - Grenadier Cafe",11,FALSE,"647-643-9563",1609.34,TRUE,NA,NA,NA,NA
+"7085","Danforth Ave / Westlake Ave","REGULAR",43.687323,-79.304848,0,"Danforth Ave / Westlake Ave",15,FALSE,"647-201-8853",500,TRUE,NA,NA,NA,NA
+"7086","High Park - West Rd","REGULAR",43.651922,-79.465693,0,"High Park - West Rd",23,FALSE,"647-641-7093",1609.34,TRUE,NA,"1324",FALSE,NA
+"7087","Danforth Ave / Aldridge Ave","REGULAR",43.684758,-79.316767,0,"Danforth Ave / Aldridge Ave",11,FALSE,"647-641-9873",1000,TRUE,NA,NA,NA,NA
+"7088","Danforth Ave / Coxwell Ave","REGULAR",43.683378,-79.322961,0,"Danforth Ave / Coxwell Ave",15,FALSE,"647-248-5891",500,TRUE,NA,NA,NA,NA
+"7089","Church St  / Wood St","REGULAR",43.662712,-79.379903,102.08,"Church St / Wood St",18,FALSE,"647-262-1148",500,TRUE,NA,NA,NA,NA
+"7090","Danforth Ave / Lamb Ave","REGULAR",43.681991,-79.329455,0,"Danforth Ave / Lamb Ave",18,FALSE,"647-641-6203",500,TRUE,NA,NA,NA,NA
+"7091","Donlands Subway Station","REGULAR",43.681114,-79.3373885,0,"Donlands Station",15,FALSE,"647-669-1705",1000,TRUE,NA,"M4J 1P3",NA,NA
+"7093","Danforth Ave / Gough Ave","REGULAR",43.678401,-79.346289,0,"Danforth Ave / Gough Ave",24,FALSE,"647-669-1671",500,TRUE,NA,NA,NA,NA
+"7094","14 Arundel Ave","ELECTRICBIKESTATION",43.6784834,-79.3513564,0,"14 Arundel Ave",25,TRUE,"14 Arundel Ave - EBS - @CP 87",500,TRUE,NA,"M4K 3A2",NA,"Arundel Ave - Chester Subway station"
+"7095","Danforth Ave / Ellerbeck St","REGULAR",43.677076,-79.35667,0,"Danforth Ave / Ellerbeck St",14,FALSE,"647-669-1678",500,TRUE,NA,NA,NA,NA
+"7096","Lower Don River Trail and Taylor Creek Trail","REGULAR",43.7027268,-79.3336809,0,"425 Don Mills Rd",19,FALSE,"647-669-3908",500,TRUE,NA,"M4J",NA,NA
+"7097","Riverdale Park North (Broadview Ave)","REGULAR",43.671172,-79.354704,0,"Riverdale Park North (Broadview Ave)",15,FALSE,"647-643-9838",500,TRUE,NA,NA,NA,NA
+"7099","Cherry St / Mill St","REGULAR",43.6513927,-79.3579466,0,"Cherry St / Mill St",15,FALSE,"647-640-7714",500,TRUE,NA,"M5A 4T3",NA,NA
+"7100","Dundas St E / Regent Park Blvd","REGULAR",43.660207,-79.361275,0,"Dundas St E / Regent Park Blvd",27,FALSE,"647-669-3847",500,TRUE,NA,NA,NA,NA
+"7101","Lower Sherbourne St / The Esplanade","REGULAR",43.648655,-79.367061,0,"Lower Sherbourne St / The Esplanade",27,FALSE,"647-641-5818",500,TRUE,NA,NA,NA,NA
+"7102","Nelson St / Duncan St","REGULAR",43.648711,-79.389728,0,"Nelson St / Duncan St",31,FALSE,"647-641-5951",500,TRUE,NA,NA,NA,NA
+"7103","Jimmie Simpson Park (Queen St E)","REGULAR",43.6605603,-79.3437663,0,"Jimmie Simpson Park (Queen St E)",15,FALSE,"647-669-2521",500,TRUE,NA,NA,NA,NA
+"7104","King St E / River St","REGULAR",43.6567847828531,-79.3562738505904,0,"King St E / River St",15,FALSE,"647-641-5813",500,TRUE,NA,"M5A 1M6",NA,NA
+"7105","Queen St E / Sackville St","REGULAR",43.6561111,-79.3613888888889,0,"Queen St E / Sackville St",15,FALSE,"647-290-7069",500,TRUE,NA,NA,NA,NA
+"7106","Mill St / Tannery Rd","REGULAR",43.652219,-79.354455,0,"Mill St / Tannery Rd",27,FALSE,"647-641-5839",500,TRUE,NA,NA,NA,NA
+"7107","Cherry St / Distillery Ln","REGULAR",43.650279,-79.356832,0,"Cherry St / Distillery Ln",15,FALSE,"647-669-2608",500,TRUE,NA,NA,NA,NA
+"7108","Front St E / Cherry St","REGULAR",43.652686,-79.358395,0,"Front St E / Cherry St",15,FALSE,"647-669-4512",500,TRUE,NA,NA,NA,NA
+"7109","Seaton St / Dundas St E - SMART","SMARTMAPFRAME",43.658777,-79.369596,0,"Seaton St / Dundas St E",32,FALSE,"647-669-3971",500,TRUE,NA,NA,NA,NA
+"7110","Queen St E / Berkeley St","REGULAR",43.6552778,-79.3658333333333,0,"Queen St E / Berkeley St",15,FALSE,"647-290-4392",500,TRUE,NA,NA,NA,NA
+"7111","King St W / Douro St","REGULAR",43.640885,-79.416379,0,"King St W / Douro St",11,FALSE,"647-641-5214",500,TRUE,NA,NA,NA,NA
+"7112","Liberty St / Fraser Ave Green P","REGULAR",43.637981,-79.424146,0,"Liberty St / Fraser Ave Green P",19,FALSE,"647-669-3920",500,TRUE,NA,NA,NA,NA
+"7113","Parliament St / Aberdeen Ave","VAULT",43.665278,-79.368333,0,"Parliament St / Aberdeen Ave",15,FALSE,"647-640-5613",500,TRUE,NA,NA,NA,NA
+"7114","Carlton St / Parliament St","REGULAR",43.664524,-79.36793,0,"Carlton St / Parliament St",27,FALSE,"647-262-2870",500,TRUE,NA,NA,NA,NA
+"7115","Howard St / Sherbourne St","REGULAR",43.6712581,-79.376367,0,"Howard St / Sherbourne St",15,FALSE,"647-641-1259",500,TRUE,NA,NA,NA,NA
+"7116","Bloor St E / Parliament St","VAULT",43.6719461020018,-79.3724511533729,0,"575 Bloor St East",19,FALSE,"Ward 13 - (575 Bloor St E)",500,TRUE,NA,"M4W 0B2",NA,NA
+"7117","640 Bloor Street E","REGULAR",43.6746885744863,-79.3670196239627,0,"640 Bloor Street East",19,FALSE,"647-267-2042",500,TRUE,NA,"M4W 1J3",NA,NA
+"7118","King St W / Bay St (East Side)","REGULAR",43.648575,-79.380042,0,"King St W / Bay St (East Side)",19,FALSE,"647-271-6326",500,TRUE,NA,NA,NA,NA
+"7119","Sumach St / Carlton St (Riverdale Farm)","REGULAR",43.665867,-79.362506,0,"Sumach St / Carlton St (Riverdale Farm)",15,FALSE,"647-282-9705",500,TRUE,NA,NA,NA,NA
+"7120","Gerrard St E / River St","REGULAR",43.663993,-79.358534,0,"Gerrard St E / River St",11,FALSE,"647-643-9843",500,TRUE,NA,NA,NA,NA
+"7121","Jarvis St / Dundas St E","REGULAR",43.657266,-79.374756,0,"Jarvis St / Dundas St E",27,FALSE,"647-641-5582",500,TRUE,NA,NA,NA,NA
+"7122","Niagara St / Tecumseth St","REGULAR",43.641389,-79.404444,0,"Niagara St / Tecumseth St",15,FALSE,"647-272-3286",500,TRUE,NA,NA,NA,NA
+"7123","424 Wellington St W","REGULAR",43.643834,-79.396649,0,"424 Wellington St W",15,FALSE,"647-272-4047",500,TRUE,NA,NA,NA,NA
+"7124","Dundas St E / Broadview Ave","REGULAR",43.662365,-79.351104,0,"Dundas St E / Broadview Ave",19,FALSE,"647-669-4283",500,TRUE,NA,NA,NA,NA
+"7126","Yonge St / Yorkville Ave","REGULAR",43.671944,-79.387778,0,"Yonge St / Yorkville Ave",17,FALSE,"647-719-3941",500,TRUE,NA,NA,NA,NA
+"7127","Bay St / Scollard St","REGULAR",43.672152,-79.39018,0,"Bay St / Scollard St",15,FALSE,"647-201-6479",500,TRUE,NA,"M5R 0A1",NA,NA
+"7128","Yonge St / Aylmer Ave","REGULAR",43.675492,-79.388858,0,"Yonge St / Aylmer Ave",22,FALSE,"647-641-6641",500,TRUE,NA,NA,NA,NA
+"7129","Davenport Rd / Avenue Rd","REGULAR",43.674991,-79.396273,0,"Davenport Rd / Avenue Rd",11,FALSE,"437-992-7074",500,TRUE,NA,NA,NA,NA
+"7130","Davenport Rd / Bedford Rd","REGULAR",43.674446,-79.398331,0,"Davenport Rd / Bedford Rd",15,FALSE,"647-641-6906",500,TRUE,NA,"M5R 1J8",NA,NA
+"7131","Taddle Creek Park","REGULAR",43.66986,-79.398443,0,"Taddle Creek Park",15,FALSE,"647-309-1691",500,TRUE,NA,NA,NA,NA
+"7132","Kendal Ave / Spadina Rd","REGULAR",43.670318,-79.405181,0,"Kendal Ave / Spadina Rd",9,FALSE,"647-641-7095",500,TRUE,NA,NA,NA,NA
+"7133","Summerhill Subway Station","REGULAR",43.681944,-79.390556,0,"Summerhill Station",11,FALSE,"647-328-4512",500,TRUE,NA,NA,NA,NA
+"7135","Hanna Ave / Liberty St","REGULAR",43.6384009,-79.4197107,0,"Hanna Ave / Liberty St",19,FALSE,"647-280-9962",500,TRUE,NA,"M6K 1W8",NA,NA
+"7136","Queen St W / Close Ave","REGULAR",43.640634,-79.435841,0,"Queen St W / Close Ave",23,FALSE,"647-624-8559",500,TRUE,NA,NA,NA,NA
+"7137","Davenport Rd / Bathurst St","REGULAR",43.676667,-79.416111,0,"Davenport Rd / Bathurst St",27,FALSE,"647-641-6859",500,TRUE,NA,NA,NA,NA
+"7138","Davenport Rd / Christie St","REGULAR",43.675278,-79.423889,0,"Davenport Rd / Christie St",27,FALSE,"647-669-2814",500,TRUE,NA,NA,NA,NA
+"7139","Glen Edyth Dr / Davenport Rd","REGULAR",43.677778,-79.405556,0,"Glen Edyth Dr / Davenport Rd",14,FALSE,"647-643-9830",500,TRUE,NA,NA,NA,NA
+"7140","Macpherson Ave / Spadina Rd","REGULAR",43.675791,-79.40698,0,"Macpherson Ave / Spadina Rd",15,FALSE,"647-669-2824",500,TRUE,NA,NA,NA,NA
+"7141","Bridgman Ave / Kendal Ave","REGULAR",43.675556,-79.410278,0,"Bridgeman Ave / Kendal Ave",15,FALSE,"647-640-7641",500,TRUE,NA,NA,NA,NA
+"7142","Bridgman Ave / Bathurst St","REGULAR",43.674444,-79.414722,0,"Bridgeman Ave / Bathurst St",15,FALSE,"647-669-4408",500,TRUE,NA,NA,NA,NA
+"7143","Kendal Ave / Bernard Ave","REGULAR",43.671513,-79.408317,0,"Kendal Ave / Bernard Ave",15,FALSE,"647-643-9741",500,TRUE,NA,NA,NA,NA
+"7144","Palmerston Ave / Vermont Ave","REGULAR",43.671389,-79.416389,0,"Palmerston Ave / Vermont Ave",15,FALSE,"647-284-2560",500,TRUE,NA,NA,NA,NA
+"7146","Christie St / Benson Ave (Wychwood Barns)","REGULAR",43.68,-79.425,0,"Christie St / Benson Ave (Wychwood Barns)",19,FALSE,"647-643-9742",500,TRUE,NA,NA,NA,NA
+"7147","King St W / Fraser Ave","REGULAR",43.6394444,-79.4252777777778,0,"King St W / Fraser Ave",15,FALSE,"647-669-3846",500,TRUE,NA,NA,NA,NA
+"7148","King St W / Joe Shuster Way","REGULAR",43.639444,-79.423611,0,"King St W / Joe Shuster Way",23,FALSE,"647-285-4281",500,TRUE,NA,NA,NA,NA
+"7149","Yarmouth Rd / Christie St","REGULAR",43.67,-79.4208333333333,0,"Yarmouth Rd / Christie St",11,FALSE,"647-287-2061",500,TRUE,NA,NA,NA,NA
+"7150","Dufferin St / Sylvan Av (Dufferin Grove Park)","REGULAR",43.6555556,-79.4336111111111,0,"Dufferin St / Sylvan Av (Dufferin Grove Park)",19,FALSE,"647-643-9812",500,TRUE,NA,NA,NA,NA
+"7151","Essex St / Christie St - SMART","REGULAR",43.6686111,-79.4202777777778,0,"Essex St / Christie St",19,FALSE,"647-643-9745",500,TRUE,NA,NA,NA,NA
+"7152","Ossington Ave / Bloor St W","REGULAR",43.661705,-79.425734,0,"Ossington Ave / Bloor St W",11,FALSE,"647-286-9204",500,TRUE,NA,NA,NA,NA
+"7153","Bloor St W / Christie St","REGULAR",43.6638889,-79.4188888888889,0,"Bloor St W / Christie St",19,FALSE,"647-643-9744",500,TRUE,NA,NA,NA,NA
+"7154","Bathurst Subway Station","REGULAR",43.6666667,-79.4116666666667,0,"Bathurst Subway Station",23,FALSE,"647-289-4712",500,TRUE,NA,NA,NA,NA
+"7155","Bathurst St / Lennox St","REGULAR",43.663808,-79.410491,0,"Bathurst St / Lennox St",19,FALSE,"647-643-9750",500,TRUE,NA,NA,NA,NA
+"7156","Salem Ave / Bloor St W","REGULAR",43.6608333,-79.4316666666667,0,"Salem Ave / Bloor St W",15,FALSE,"647-289-9256",500,TRUE,NA,NA,NA,NA
+"7157","Dufferin St / Bloor St W","REGULAR",43.6608333333333,-79.4358333333333,0,"Dufferin St / Bloor St",23,FALSE,"647-309-0950",500,TRUE,NA,NA,NA,NA
+"7158","King St W / Stafford St","REGULAR",43.6422222,-79.4111111111111,0,"King St W / Stafford St",15,FALSE,"647-300-9735",500,TRUE,NA,NA,NA,NA
+"7160","King St W / Tecumseth St","REGULAR",43.6433333333333,-79.4055555555556,0,"King St W / Tecumseth St",18,FALSE,"647-302-3804",500,TRUE,NA,NA,NA,NA
+"7161","Beverley St / College St","REGULAR",43.6575,-79.3952777777778,0,"Beverley St / College St",23,FALSE,"647-643-9768",500,TRUE,NA,NA,NA,NA
+"7162","Hayter St / La Plante Ave","REGULAR",43.6591666666667,-79.3855555555556,0,"Hayter St / Laplante Ave",23,FALSE,"647-669-1302",500,TRUE,NA,NA,NA,NA
+"7163","Yonge St / Wood St","REGULAR",43.6622222,-79.3825,0,"Yonge St / Wood St",15,FALSE,"647-643-9754",500,TRUE,NA,NA,NA,NA
+"7164","Gould St / Yonge St (TMU)","REGULAR",43.657424,-79.381019,0,"Gould St / Yonge St (Ryerson University)",23,FALSE,"647-292-0183",500,TRUE,NA,NA,NA,NA
+"7168","Queens Quay / Yonge St","REGULAR",43.641646,-79.375308,0,"Queens Quay / Yonge St",31,FALSE,"647-643-9780",500,TRUE,NA,NA,NA,NA
+"7169","Front St W / Bay St (North Side)","REGULAR",43.646162,-79.378912,0,"Front St W / Bay St (North Side)",11,FALSE,"437-992-6547",500,TRUE,NA,NA,NA,NA
+"7170","Spadina Ave / Willcocks St","REGULAR",43.6616667,-79.4013888888889,0,"Spadina Ave / Willcocks St",15,FALSE,"647-293-0441",500,TRUE,NA,NA,NA,NA
+"7171","Ontario Place Blvd / Lake Shore Blvd W","REGULAR",43.6322445,-79.4108105,0,"Ontario Place Blvd / Lake Shore Blvd W",27,FALSE,"647-294-0390",500,TRUE,NA,NA,FALSE,NA
+"7172","Strachan Ave / Princes' Blvd","REGULAR",43.635,-79.4088888888889,0,"Strachan Ave / Princes' Blvd",19,FALSE,"647-294-5248",500,TRUE,NA,NA,FALSE,NA
+"7173","Cariboo Ave / Railpath Trail","REGULAR",43.66666667,-79.4583333333333,0,"Cariboo St / Rail Path",19,FALSE,"647-643-9769",500,TRUE,NA,NA,NA,NA
+"7174","Bloor St W / Dundas St W","REGULAR",43.6563889,-79.4516666666667,0,"Bloor St W / Dundas St W",15,FALSE,"647-296-3378",500,TRUE,NA,NA,NA,NA
+"7175","HTO Park (Queens Quay W)","REGULAR",43.63796,-79.387502,0,"HTO Park (Queens Quay W)",27,FALSE,"647-643-9853",500,TRUE,NA,NA,FALSE,NA
+"7176","Bathurst St / Fort York Blvd","REGULAR",43.639179,-79.399595,0,"Bathurst St / Fort York Blvd",19,FALSE,"647-643-9795",500,TRUE,NA,NA,NA,NA
+"7178","Dundas St W / Edna Ave","REGULAR",43.657192,-79.452559,0,"Dundas St W / Edna Ave",15,FALSE,"647-643-9783",500,TRUE,NA,NA,NA,NA
+"7180","Lansdowne Subway Station","REGULAR",43.659229181581,-79.4432090102228,0,"Lansdowne Ave / Wade Ave",23,FALSE,"647-643-9759",500,TRUE,NA,NA,NA,NA
+"7181","Lansdowne Ave / Whytock Ave","REGULAR",43.6538888888889,-79.4413888888889,0,"Lansdowne Ave / Whytock Ave",15,FALSE,"647-295-6052",500,TRUE,NA,NA,NA,NA
+"7182","Sterling Rd / Dundas St W","REGULAR",43.6508333333333,-79.4430555555556,0,"Sterling Rd / Dundas St W",19,FALSE,"647-643-9791",500,TRUE,NA,NA,NA,NA
+"7183","St Clarens Ave / College St","REGULAR",43.651238,-79.43868,0,"St Clarens Ave / College St",15,FALSE,"647-300-6130",500,TRUE,NA,NA,NA,NA
+"7184","Ossington Ave / College St","REGULAR",43.6544915,-79.422634,0,"Ossington Ave / College St",11,FALSE,"647-643-9789",500,TRUE,NA,NA,NA,NA
+"7188","Exhibition GO (Atlantic Ave)","REGULAR",43.6376954918301,-79.420231841935,0,"Exhibition GO (Atlantic Ave)",15,FALSE,"647-643-9764",500,TRUE,NA,NA,NA,NA
+"7189","Augusta Ave / Denison Sq","REGULAR",43.653766,-79.4016759,0,"Augusta Ave / Denison Sq",15,FALSE,"647-285-0348",500,TRUE,NA,NA,NA,NA
+"7190","St. George St / Hoskin Ave","REGULAR",43.6637403,-79.3980645,0,"St. George St / Hoskin Ave",15,FALSE,"647-669-1645",500,TRUE,NA,"M5S 2E5",NA,NA
+"7191","Central Tech  (Harbord St)","REGULAR",43.661975,-79.407896,0,"Central Tech (Harbord St)",11,FALSE,"647-643-9801",500,TRUE,NA,NA,NA,NA
+"7192","Harbord St / Clinton St","REGULAR",43.660414,-79.415646,0,"Harbord St / Clinton St",15,FALSE,"647-669-1501",500,TRUE,NA,NA,NA,NA
+"7193","Dufferin St / Queen St W","REGULAR",43.6430968793777,-79.4287561377064,0,"Queen St W / Gladstone Ave",15,FALSE,"647-405-2875",500,TRUE,NA,NA,NA,NA
+"7194","Mortimer Ave / Coxwell Ave","REGULAR",43.690564,-79.326319,0,"Mortimer Ave / Coxwell Ave",23,FALSE,"647-669-1379",500,TRUE,NA,NA,NA,NA
+"7195","Ulster St / Bathurst St","REGULAR",43.66,-79.4088888888889,0,"Ulster St / Bathurst St",11,FALSE,"647-643-9821",500,TRUE,NA,NA,NA,NA
+"7196","Roxton Rd / Harbord St","REGULAR",43.65905,-79.422988,0,"Roxton Rd / Harbord St",10,FALSE,"647-643-9811",500,TRUE,NA,NA,NA,NA
+"7197","Queen St W / Dovercourt Rd","REGULAR",43.6438602,-79.4227573,0,"Queen St W / Dovercourt Rd",11,FALSE,"647-643-9863",500,TRUE,NA,"M6J 3C4",NA,NA
+"7198","Queen St W / Cowan Ave","REGULAR",43.6409,-79.432837,0,"Queen St W / Cowan Ave",18,FALSE,"647-244-9310",500,TRUE,NA,NA,NA,NA
+"7199","College St / Markham St","REGULAR",43.6563888888889,-79.4091666666667,0,"College St / Markham St",19,FALSE,"647-643-9817",500,TRUE,NA,NA,FALSE,NA
+"7202","Queen St W / Bay St (City Hall)","REGULAR",43.6517925,-79.3826951,0,"Queen St W / York St (City Hall)",23,FALSE,"647-629-5943",500,TRUE,NA,"M5H 2N2",NA,NA
+"7203","Bathurst St/Queens Quay(Billy Bishop Airport)","REGULAR",43.635492,-79.398253,0,"Bathurst St/Queens Quay(Billy Bishop Airport)",35,FALSE,"647-669-4303",500,TRUE,NA,NA,NA,NA
+"7204","College St / Crawford St","REGULAR",43.655,-79.418889,0,"College St / Crawford St",19,FALSE,"647-530-9928",500,TRUE,NA,NA,NA,NA
+"7205","Rusholme Park Cres / College St","REGULAR",43.65277778,-79.42972222,0,"Rusholme Park Cres / College St",15,FALSE,"647-633-4094",500,TRUE,NA,NA,NA,NA
+"7206","Claremont St / Dundas St W","REGULAR",43.651281,-79.411717,0,"Claremont St / Dundas St W",13,FALSE,"647-530-5659",500,TRUE,NA,NA,NA,NA
+"7207","Dundas St W / Crawford St","REGULAR",43.649722,-79.416944,0,"Dundas St W / Crawford St",47,FALSE,"647-669-3017",500,TRUE,NA,NA,FALSE,NA
+"7208","80 Clinton St","REGULAR",43.656296,-79.414663,0,"80 Clinton St (North of College)",15,FALSE,"647-530-1442",500,TRUE,NA,NA,NA,NA
+"7209","Ossington Ave / Harrison St","REGULAR",43.6511111111111,-79.4213888888889,0,"Ossington Ave / Harrison St",19,FALSE,"647-669-4279",500,TRUE,NA,NA,NA,NA
+"7210","Mary McCormick Rec Centre (Sheridan Ave)","REGULAR",43.6475,-79.4330555555556,0,"Mary McCormick Rec Centre (Sheridan Ave)",15,FALSE,"647-504-1948",500,TRUE,NA,NA,NA,NA
+"7211","Fort York Blvd / Garrison Rd","REGULAR",43.637381,-79.406112,0,"Fort York Blvd / Garrison Rd",15,FALSE,"647-669-3872",500,TRUE,NA,"M5V 1B2",NA,NA
+"7216","Wellington St W / Stafford St","REGULAR",43.6409957,-79.4096663,0,"Wellington St W / Stafford St",23,FALSE,"647-643-9874",500,TRUE,NA,"M5V 1G8",NA,NA
+"7217","Soho St / Queen St W","REGULAR",43.6494896,-79.393535,0,"Soho St. / Queen St W",15,FALSE,"647-669-1785",500,TRUE,NA,NA,NA,NA
+"7220","Lake Shore Blvd W / Ellis Ave","REGULAR",43.635932,-79.465083,0,"Lake Shore Blvd W / Ellis Ave",19,FALSE,"647-502-8498",1000,TRUE,NA,NA,NA,NA
+"7221","High Park Subway Station","REGULAR",43.6543604,-79.4655296,0,"High Park Subway Station",11,FALSE,"647-669-0254",1000,TRUE,NA,NA,NA,NA
+"7222","Sunnyside - Gus Ryder Pool","REGULAR",43.637894,-79.454823,0,"Sunnyside - Gus Ryder Pool",27,FALSE,"647-339-2011",1000,TRUE,NA,NA,FALSE,NA
+"7223","Parkside Dr / Bloor St W - SMART","SMARTMAPFRAME",43.654501,-79.460053,0,"Parkside Dr / Bloor St W",12,FALSE,"647-669-0176",1000,TRUE,NA,NA,NA,NA
+"7224","Bloor St W / High Park Ave (High Park)","REGULAR",43.6535269,-79.4650569,0,"Bloor St W / High Park Ave (High Park)",23,FALSE,"647-405-1809",1000,TRUE,NA,NA,FALSE,NA
+"7225","Lake Shore Blvd W / Windermere Ave","REGULAR",43.634896,-79.467763,0,"Lake Shore Blvd W / Windermere Ave",19,FALSE,"647-330-4430",1000,TRUE,NA,NA,NA,NA
+"7226","Lake Shore Blvd W / The Boulevard Club","REGULAR",43.636731,-79.444966,0,"Lake Shore Blvd W / The Boulevard Club",19,FALSE,"647-643-9869",1000,TRUE,NA,NA,NA,NA
+"7227","Martin Goodman Trail (Marilyn Bell Park)","REGULAR",43.6314,-79.4304,0,"Martin Goodman Trail (Marilyn Bell Park)",31,FALSE,"647-338-5620",1000,TRUE,NA,NA,NA,NA
+"7228","King St W / Wilson Park Blvd","REGULAR",43.6372958,-79.4423237,0,"Queen St W / Roncesvalles Ave",19,FALSE,"647-669-0897",1000,TRUE,NA,"M6K 1J6",NA,NA
+"7229","Dundas St W / Roncesvalles Ave Green P -SMART","SMARTMAPFRAME",43.6534268,-79.4512787,0,"Dundas St W / Roncesvalles Green P",12,FALSE,"437-992-7377",1000,TRUE,NA,NA,NA,NA
+"7230","Garden Ave / Roncesvalles Ave","REGULAR",43.643769,-79.447915,0,"Garden Ave / Roncesvalles Ave",19,FALSE,"647-669-0128",1000,TRUE,NA,NA,NA,NA
+"7231","Wright Ave / Sorauren Ave - SMART","SMARTMAPFRAME",43.646677,-79.442741,0,"Wright Ave / Sorauren St (Sorauren Park)",18,FALSE,"437-992-0663",1000,TRUE,NA,NA,NA,NA
+"7232","Queen St W  /  Fuller Ave - SMART","SMARTMAPFRAME",43.640255,-79.439223,0,"Queen St W / Fuller Ave",16,FALSE,"647-669-0539",1000,TRUE,NA,NA,NA,NA
+"7233","King St W / Cowan Ave - SMART","SMARTMAPFRAME",43.637922,-79.431734,0,"King St W / Cowan Ave",16,FALSE,"647-669-3856",1000,TRUE,NA,NA,NA,NA
+"7234","Roncesvalles Ave / Marmaduke St","REGULAR",43.650492,-79.450842,0,"Roncesvalles Ave / Marmaduke St",19,FALSE,"647-400-6814",1000,TRUE,NA,NA,NA,NA
+"7235","Bay St / College St (West Side) - SMART","SMARTMAPFRAME",43.660087,-79.385655,0,"Bay St / College St (West Side)",12,FALSE,"437-992-0779",1000,TRUE,NA,NA,NA,NA
+"7236","Thompson St / Broadview Ave - SMART","SMARTMAPFRAME",43.659471,-79.350325,0,"Thompson St / Broadview Ave",24,FALSE,"437-992-2970",1000,TRUE,NA,NA,NA,NA
+"7237","Ward St / Wallace Ave","REGULAR",43.662857,-79.44618,0,"Ward Ave / Wallace Ave",15,FALSE,"647-643-9824",1000,TRUE,NA,"m6h1v5",NA,NA
+"7238","Sorauren Ave / Geoffrey St - SMART","SMARTMAPFRAME",43.649172,-79.4445087,0,"Sorauren St / Geoffrey St (Sorauren Park)",16,FALSE,"437-992-0948",1000,TRUE,NA,NA,NA,NA
+"7239","Bloor St W / Manning Ave - SMART","SMARTMAPFRAME",43.663912,-79.416124,0,"Bloor St W / Manning Ave",20,FALSE,"437-992-4514",1000,TRUE,NA,NA,NA,NA
+"7240","Bloor St W / Shaw St - SMART","SMARTMAPFRAME",43.662403,-79.423098,0,"Bloor St W / Shaw Ave",34,FALSE,"437-992-3508",1000,TRUE,NA,NA,NA,NA
+"7242","Lake Shore Blvd W / Ontario Dr","REGULAR",43.630254,-79.420317,0,"Lake Shore Blvd W / Ontario Dr (Ontario Place)",35,FALSE,"647-669-1038",560,TRUE,NA,NA,NA,NA
+"7243","Exhibition GO Station","REGULAR",43.6352007,-79.4187711,0,"Exhibition GO Station",14,FALSE,"647-404-4533",1000,TRUE,NA,"M6K 3C3",NA,NA
+"7244","Dufferin Gate - SMART","SMARTMAPFRAME",43.633473,-79.425679,0,"Dufferin Gate",16,FALSE,"647-669-0734",1000,TRUE,NA,NA,NA,NA
+"7245","Tecumseth St / Queen St W - SMART","SMARTMAPFRAME",43.646552,-79.406468,0,"Tecumseth St / Queen St W",9,FALSE,"437-992-2358",1000,TRUE,NA,NA,NA,NA
+"7246","Yonge St / Bloor St","REGULAR",43.669969,-79.386532,0,"Yonge St / Bloor St",14,FALSE,"647-669-3238",1000,TRUE,NA,NA,NA,NA
+"7247","Howard Park Ave / Dundas St W - SMART","SMARTMAPFRAME",43.6521,-79.4486,0,"Howard Park Ave / Dundas St W",12,FALSE,"437-992-0352",1000,TRUE,NA,NA,NA,NA
+"7248","Baldwin St / Spadina Ave - SMART","SMARTMAPFRAME",43.654905,-79.398448,0,"Baldwin Ave / Spadina Ave",20,FALSE,"437-992-0713",1000,TRUE,NA,NA,NA,NA
+"7249","Lakeview Ave / Harrison St (Green P) – SMART","SMARTMAPFRAME",43.651145,-79.423742,0,"Dovercourt Rd / Harrison St (Green P) - SMART",16,FALSE,"437-992-5539",1000,TRUE,NA,NA,NA,NA
+"7250","Ursula Franklin St / St. George St - SMART","SMARTMAPFRAME",43.660296,-79.397107,0,"Ursula Franklin St / St. George St",16,FALSE,"647-338-0572",1000,TRUE,NA,NA,NA,NA
+"7252","Robert St / Bloor St W - SMART","SMARTMAPFRAME",43.665846,-79.404998,0,"Robert St / Bloor St W",18,FALSE,"437-9924908",1000,TRUE,NA,NA,NA,NA
+"7253","John St  / Mercer St - SMART","SMARTMAPFRAME",43.6461,-79.3895,0,"John St / Mercer St - SMART",12,FALSE,"647-649-4986",1000,TRUE,NA,NA,NA,NA
+"7256","Vanauley St / Queen St W - SMART","SMARTMAPFRAME",43.648437,-79.39838,0,"Vanauley St / Queen St W",12,FALSE,"437-992-6550",1000,TRUE,NA,NA,NA,NA
+"7257","Dundas St W / St. Patrick St","REGULAR",43.6545174,-79.3895315,0,"Dundas St W / St. Patrick St",19,FALSE,"647-400-9727",1000,TRUE,NA,NA,NA,NA
+"7258","Queen St E / Rushbrooke Ave","REGULAR",43.6626628,-79.3323698,0,"Queen St E / Rushbrooke Ave",15,FALSE,"647-504-9410",1000,TRUE,NA,"M4M 1L5",NA,NA
+"7259","Lower Spadina Ave / Lake Shore Blvd W","REGULAR",43.638497,-79.39192,0,"Lower Spadina Ave / Lake Shore Blvd W",19,FALSE,"647-402-7126",1000,TRUE,NA,NA,NA,NA
+"7260","Spadina Ave / Adelaide St W","REGULAR",43.6472019,-79.3953394,0,"Spadina Ave / Adelaide St W",15,FALSE,"647-712-8927",1000,TRUE,NA,"M5V 2K8",NA,NA
+"7261","Queens Quay E / Lower Sherbourne St","REGULAR",43.645215,-79.364898,0,"Queens Quay E / Lower Sherbourne",27,FALSE,"437-688-8691",1000,TRUE,NA,"M5A 3Y4",NA,NA
+"7262","Wychwood Ave / Benson Ave - SMART","SMARTMAPFRAME",43.6809164,-79.4229684,0,"Wychwood Ave / Benson Ave",16,FALSE,"437-992-6472",1000,TRUE,NA,NA,NA,NA
+"7263","Walton St / Elizabeth St - SMART","SMARTMAPFRAME",43.657838,-79.38631,0,"Walton St / Elizabeth St",20,FALSE,"437-992-6002",1000,TRUE,NA,"M8Z4T4",NA,NA
+"7264","Bloor St E / Huntley St - SMART","SMARTMAPFRAME",43.671535,-79.379173,0,"Bloor St E / Huntley St",15,FALSE,"437-992-3239",1000,TRUE,NA,NA,NA,NA
+"7265","Wallace Ave / Symington Ave - SMART","SMARTMAPFRAME",43.661324,-79.449534,0,"Wallace Ave / Symington Ave",12,FALSE,"437-992-0966",1000,TRUE,NA,NA,NA,NA
+"7266","Victoria Park Subway Station - SMART","SMARTMAPFRAME",43.6940155,-79.2889842,0,"Victoria Park Subway Station",20,FALSE,"437-992-7115",1000,TRUE,NA,NA,NA,NA
+"7267","Dundas St E / Pembroke St - SMART","SMARTMAPFRAME",43.658295,-79.372346,0,"Dundas St E / Pembroke St",16,FALSE,"437-992-1458",1000,TRUE,NA,NA,NA,NA
+"7268","111 Bond St (North of Dundas St E)  - SMART","SMARTMAPFRAME",43.656927,-79.378497,0,"111 Bond St (North of Dundas St E)",16,FALSE,"437-992-1826",1000,TRUE,NA,NA,NA,NA
+"7269","Toronto Eaton Centre (Yonge St) - SMART","SMARTMAPFRAME",43.655431,-79.380653,0,"Toronto Eaton Centre (Yonge St)",20,FALSE,"647-669-0729",1000,TRUE,NA,NA,NA,NA
+"7270","Church St / Dundas St E - SMART","SMARTMAPFRAME",43.657024,-79.377257,0,"Church St / Dundas St E",20,FALSE,"437-992-0805",1000,TRUE,NA,NA,NA,NA
+"7271","Yonge St / Alexander St - SMART","SMARTMAPFRAME",43.662862,-79.383572,0,"Yonge St / Alexander St",18,FALSE,"437-992-3627",1000,TRUE,NA,NA,NA,NA
+"7272","Yonge St / Dundonald St - SMART","REGULAR",43.665801,-79.384796,0,"Yonge St / Dundonald St",12,FALSE,"437-992-6086",1000,TRUE,NA,NA,NA,NA
+"7273","Bay St / Charles St W - SMART","SMARTMAPFRAME",43.668153,-79.38891,0,"Bay St / Charles St W",20,FALSE,"437-992-7265",1000,TRUE,NA,NA,NA,NA
+"7274","Queen's Park Cres E / Grosvenor St - SMART","SMARTMAPFRAME",43.661803,-79.389682,0,"Queen's Park Cres E / Grosvenor St",16,FALSE,"437-992-0939",1000,TRUE,NA,NA,NA,NA
+"7276","Bloor St W / Balmuto St","REGULAR",43.6698106428206,-79.3880110687303,0,"Bloor St W / Balmuto St",11,FALSE,"647-669-4314",1000,TRUE,NA,NA,NA,NA
+"7277","Chorley Park - SMART","SMARTMAPFRAME",43.6856,-79.3718,0,"Chorley Park",20,FALSE,"437-992-0849",1000,TRUE,NA,NA,NA,NA
+"7278","Mallon Ave / Jones Ave -SMART","SMARTMAPFRAME",43.66587,-79.33443,0,"Mallon Ave / Jones Ave",15,FALSE,"437-992-0901",1000,TRUE,NA,"M4M2Z1",NA,NA
+"7279","Rosehill Ave / Avoca Ave - SMART","SMARTMAPFRAME",43.687999,-79.38906,0,"Rosehill Ave / Avoca Ave",16,FALSE,"437-992-6053",1000,TRUE,NA,NA,NA,NA
+"7280","Charles St E / Jarvis St - SMART","SMARTMAPFRAME",43.669604,-79.381171,0,"Charles St E / Jarvis St",20,FALSE,"437-992-7283",1000,TRUE,NA,NA,NA,NA
+"7281","Charles St W / Balmuto St - SMART","SMARTMAPFRAME",43.668427,-79.38725,0,"Charles St W / Balmuto St",20,FALSE,"437-992-2844",1000,TRUE,NA,NA,NA,NA
+"7283","Front St W / Bay St (South Side)","REGULAR",43.64595,-79.378761,0,"Front St W / Bay St (South Side)",19,FALSE,"647-388-9361",1000,TRUE,NA,NA,NA,NA
+"7284","University Ave / King St W - SMART","SMARTMAPFRAME",43.6477785,-79.3847928,0,"University Ave / King St W",24,FALSE,"437-992-4749",1000,TRUE,NA,"M5H 1J9",NA,NA
+"7285","Spadina Ave / Harbord St - SMART","SMARTMAPFRAME",43.6629228,-79.4018451,0,"Spadina Ave / Harbord St",36,FALSE,"437-992-6585",1000,TRUE,NA,NA,NA,NA
+"7286","Gerrard St E / Broadview Ave  - SMART","SMARTMAPFRAME",43.665656,-79.352055,0,"Gerrard St E / Broadview",18,FALSE,"437-992-0777",1000,TRUE,NA,NA,NA,NA
+"7287","Queen St E / Pape Ave - SMART","SMARTMAPFRAME",43.661673,-79.337789,0,"Queen St E / Pape Ave",15,FALSE,"437-992-0758",1000,TRUE,NA,NA,NA,NA
+"7288","Humber Bay Shores Park West","REGULAR",43.6224434,-79.480284,0,"Humber Bay Shores Park West",31,FALSE,"647-643-9762",1000,TRUE,NA,NA,NA,NA
+"7289","Humber Bay Shores Park East","REGULAR",43.6308933,-79.4722622,0,"Humber Bay Shores Park East",23,FALSE,"647-643-9740",1000,TRUE,NA,NA,NA,NA
+"7291","190 Queens Quay E","REGULAR",43.6451308,-79.3653644,0,"Lake Shore Blvd E / Parliament St",15,FALSE,"437-770-9931",1000,TRUE,NA,"M5A 1B6",NA,NA
+"7292","Granby St / Church St - SMART","SMARTMAPFRAME",43.6614605,-79.3789457,0,"Granby St / Church St -SMART",24,FALSE,"647-309-0035",1000,TRUE,NA,"M5B 1J1",NA,NA
+"7296","Westmoreland Ave / Fernbank Ave","REGULAR",43.665327,-79.43235,0,"Westmoreland Ave / Fernbank Ave",19,FALSE,"437-771-6958",1000,TRUE,NA,NA,NA,NA
+"7297","Havelock St / Dufferin Park","REGULAR",43.657343,-79.43112,0,"Havelock St / Dufferin Park",19,FALSE,"437-772-3680",1000,TRUE,NA,NA,NA,NA
+"7298","Bathurst St / Adelaide St W","REGULAR",43.645324,-79.40345,0,"Bathurst St / Adelaide St W",25,FALSE,"437-776-9943",1000,TRUE,NA,NA,NA,NA
+"7299","Mill St / Parliament St","REGULAR",43.650256,-79.36163,0,"Mill St / Parliament St",15,FALSE,"437-922-8965",1000,TRUE,NA,NA,NA,NA
+"7301","Primrose Ave / Davenport Rd","REGULAR",43.67142,-79.445947,0,"Primrose Ave / Davenport Rd",15,FALSE,"437-928-7044",1000,TRUE,NA,NA,NA,NA
+"7302","Winona Dr / Davenport Rd","REGULAR",43.674923,-79.430465,0,"Winona Dr / Davenport Rd",11,FALSE,"647-308-8067",1000,TRUE,NA,NA,NA,NA
+"7303","Queen St E / Woodward Ave","REGULAR",43.665269,-79.319796,0,"Queen St E / Woodward Ave",19,FALSE,"437-990-2838",1000,TRUE,NA,NA,NA,NA
+"7309","Queen St E / Rhodes Ave","REGULAR",43.666224,-79.317693,0,"Queen St. E / Rhodes Ave.",23,FALSE,"647-308-0520",1000,TRUE,NA,NA,NA,NA
+"7311","Sherbourne St / Isabella St","REGULAR",43.669576,-79.375961,0,"Sherbourne St / Isabella St",19,FALSE,"437-991-5923",1000,TRUE,NA,NA,NA,NA
+"7312","Amelia St / Sumach St","REGULAR",43.66852,-79.363525,0,"Amelia St. / Sumach St.",11,FALSE,"437-991-7841",1000,TRUE,NA,NA,NA,NA
+"7313","Lower Coxwell Ave /  Lake Shore Blvd E","REGULAR",43.662771,-79.315223,0,"Coxwell Ave /  Lake Shore Blvd E",15,FALSE,"437-994-6254",1000,TRUE,NA,NA,NA,NA
+"7314","Queen St. E / Eastern Ave","REGULAR",43.667208,-79.312315,0,"Queen St. E / Eastern Ave",15,FALSE,"437-995-6804",1000,TRUE,NA,NA,NA,NA
+"7315","Queen St E / Hammersmith Ave","REGULAR",43.671349,-79.29451,0,"Queen St E / Hammersmith Ave",11,FALSE,"437-995-8093",1000,TRUE,NA,NA,NA,NA
+"7316","Queen St. E / Spruce Hill Rd.","REGULAR",43.672571,-79.289,0,"Queen St. E / Spruce Hill Rd.",15,FALSE,"437-997-7187",1000,TRUE,NA,NA,NA,NA
+"7317","Hubbard Blvd / Balsam Av","REGULAR",43.669328,-79.288949,0,"Hubbard Blvd / Balsam Av",19,FALSE,"437-999-2694",1000,TRUE,NA,NA,NA,NA
+"7318","Hubbard Blvd / Glen Manor Dr","REGULAR",43.668633,-79.291162,0,"Hubbard Blvd. / Glen Manor Dr.",15,FALSE,"647-283-9121",1000,TRUE,NA,NA,NA,NA
+"7319","Lake Shore Blvd E / Knox Ave","REGULAR",43.660206,-79.3244,0,"Lake Shore Blvd E / Knox Ave",11,FALSE,"647-286-6124",1000,TRUE,NA,NA,NA,NA
+"7320","Front St W / University Ave (1)","REGULAR",43.6451635,-79.3831757,0,"Front St W / University Ave (1)",19,FALSE,"647-291-7762",1000,TRUE,NA,NA,NA,NA
+"7321","Front St W / University Ave (2)","REGULAR",43.6452972,-79.3827914,0,"Front St W / University Ave (2)",18,FALSE,"647-292-3168",1000,TRUE,NA,NA,NA,NA
+"7322","East Liberty St / Western Battery Rd","REGULAR",43.6392777,-79.4115736,0,"E Liberty St / Western Battery Rd",18,FALSE,"647-289-6923",1000,TRUE,NA,"M6K 3P3",NA,NA
+"7323","457 King St W","REGULAR",43.6452091,-79.3960744,0,"457 King St W.",19,FALSE,"647-295-6273",1000,TRUE,NA,NA,NA,NA
+"7324","King St W / Charlotte St","REGULAR",43.645572,-79.39399,0,"King St W / Charlotte St",23,FALSE,"647-297-6118",1000,TRUE,NA,NA,NA,NA
+"7326","Davenport Rd / Lansdowne Ave","REGULAR",43.671526,-79.44874,0,"Davenport Rd / Landsdowne Rd",19,FALSE,"647-308-7857",1000,TRUE,NA,NA,NA,NA
+"7327","Davenport Rd / Dovercourt Rd - SMART","SMARTMAPFRAME",43.6741219,-79.4352208,0,"Davenport Rd / Oakwood Rd - SMART",16,FALSE,"647-298-0692",1000,TRUE,NA,"M6H 2H1",NA,NA
+"7328","Roxborough St W / Yonge St","REGULAR",43.678077,-79.390328,0,"Roxborough St W / Yonge St",17,FALSE,"647-618-3390",1000,TRUE,NA,NA,NA,NA
+"7329","Crawford St / Queen St W","REGULAR",43.645665,-79.415345,0,"Crawford St / Queen St W",19,FALSE,"647-328-3562",1000,TRUE,NA,NA,NA,NA
+"7331","Coxwell Ave / Plains Rd","REGULAR",43.69595,-79.328535,0,"Coxwell Ave / Plains Rd",18,FALSE,"647-338-3505",1000,TRUE,NA,NA,NA,NA
+"7332","200 Bloor St E","REGULAR",43.671561,-79.38117,0,"200 Bloor St. E.",23,FALSE,"647-669-3468",1000,TRUE,NA,NA,NA,NA
+"7333","King St E / Victoria St","REGULAR",43.6495789,-79.3762096,0,"King St E / Victoria St",19,FALSE,"647-339-5578",1000,TRUE,NA,"A1a1a1",NA,NA
+"7334","Simcoe St / Wellington St W North","REGULAR",43.6462176,-79.3855048,0,"Simcoe St / Wellington St 2",15,FALSE,"647-400-0149",1000,TRUE,NA,NA,NA,NA
+"7335","Bay St / Bloor St W (West Side)","REGULAR",43.669244,-79.3894,0,"1188 Bay St",19,FALSE,"647-719-3074",1000,TRUE,NA,"M6H1a1",NA,NA
+"7336","Queen St E / Alton Av","REGULAR",43.663912,-79.327987,0,"Queen St E / Alton Av",19,FALSE,"647-402-6382",1000,TRUE,NA,NA,NA,NA
+"7337","Gerrard Square Mall (1010 Gerrard St E)","REGULAR",43.668553,-79.338673,0,"Gerrard Square Mall (1010 Gerrard St E)",23,FALSE,"647-404-3197",1000,TRUE,NA,NA,NA,NA
+"7338","Logan Ave / Bain Ave","REGULAR",43.6720273,-79.3470557,0,"Logan Ave / Bain Ave",19,FALSE,"647-404-6830",1000,TRUE,NA,NA,NA,NA
+"7339","Carlaw Ave / Strathcona Ave","REGULAR",43.6753188,-79.3462789,0,"Carlaw Ave / Strathcona Ave",15,FALSE,"647-407-3193",1000,TRUE,NA,NA,NA,NA
+"7340","Blake St / Boultbee Ave","REGULAR",43.672453,-79.338259,0,"Blake St / Boultbee Ave",15,FALSE,"647-408-4316",1000,TRUE,NA,NA,NA,NA
+"7341","Eastern Ave / Winnifred Ave","REGULAR",43.6592088,-79.3348396,0,"Eastern Ave / Winnifred Ave",15,FALSE,"647-500-1782",1000,TRUE,NA,NA,NA,NA
+"7342","Morse St / Eastern Ave","REGULAR",43.657991,-79.340075,0,"Morse St / Eastern Ave",11,FALSE,"647-449-8038",1000,TRUE,NA,NA,NA,NA
+"7343","Alton Ave / Dundas St E (Greenwood Park)","REGULAR",43.66745,-79.329408,0,"Alton Ave / Dundas St E (Greenwood Park)",22,FALSE,"647-449-0293",1000,TRUE,NA,NA,NA,NA
+"7344","Cherry Beach","REGULAR",43.637764,-79.345359,0,"Cherry Beach",49,FALSE,"647-501-9648",1000,TRUE,NA,NA,NA,NA
+"7345","Cherry Beach Sports Fields (55 Unwin Ave)","REGULAR",43.6408346,-79.3429074,0,"Cherry Beach Sports Field (55 Unwin Ave)",13,FALSE,"647-504-2481",1000,TRUE,NA,"M5A 1A3",NA,NA
+"7346","Logan Av / Gerrard St E","REGULAR",43.6672144,-79.3452697,0,"Logan Av / Gerrard St E",23,FALSE,"647-504-9664",1000,TRUE,NA,NA,NA,NA
+"7347","Regal Rd / Dufferin St","REGULAR",43.673939,-79.441159,0,"Regal Rd / Dufferin St",15,FALSE,"647-530-4259",1000,TRUE,NA,NA,NA,NA
+"7348","Pape Ave / Gamble Ave","REGULAR",43.690237,-79.350119,0,"Pape Ave / Gamble Ave",19,FALSE,"647-530-8374",1000,TRUE,NA,NA,NA,NA
+"7349","Gamble Ave / Broadview Ave","REGULAR",43.689211,-79.35438,0,"Gamble Ave / Broadview Ave",23,FALSE,"437-688-6110",1000,TRUE,NA,NA,NA,NA
+"7350","Broadview Ave / Westwood Ave","REGULAR",43.6848652,-79.356602,0,"Broadview Ave/ Westwood Ave",23,FALSE,"647-502-7565",1000,TRUE,NA,NA,NA,NA
+"7351","Pretoria Ave / Broadview Ave","REGULAR",43.6783213,-79.35822,0,"Pretoria Av / Broadview Av",19,FALSE,"647-537-6941",1000,TRUE,NA,NA,NA,NA
+"7352","Cosburn Ave / Donlands Ave","REGULAR",43.690537,-79.341307,0,"Cosburn Ave / Donlands Ave",19,FALSE,"647-620-2577",1000,TRUE,NA,NA,NA,NA
+"7353","Fulton Ave / Pape Ave","REGULAR",43.68395,-79.347046,0,"Fulton Ave / Pape Ave",19,FALSE,"647-719-4165",1000,TRUE,NA,NA,NA,NA
+"7354","Tommy Thompson Park (Leslie Street Spit)","REGULAR",43.6522266222553,-79.3229544095408,0,"Tommy Thompson Park (Leslie Street Spit)",31,FALSE,"W14-Tommy Thompson Park  - Parking Lot",16093.4,TRUE,NA,"M8Z4T4",NA,NA
+"7355","Beltline Trail / Chaplin Cres","REGULAR",43.704461,-79.423122,0,"Beltline Trail / Chaplin Cres.",15,FALSE,"647-621-3920",1000,TRUE,NA,NA,NA,NA
+"7356","King St E / Berkeley St","VAULT",43.651885,-79.3649,0,"King St E / Ontario St.",31,FALSE,"647-622-7822",1000,TRUE,NA,NA,NA,NA
+"7357","Lake Shore Blvd E / Leslie St","REGULAR",43.659195,-79.329196,0,"Lake Shore Blvd E / Leslie St",19,FALSE,"647-621-7986",1000,TRUE,NA,NA,NA,NA
+"7358","Galbraith Rd / King's College Rd","VAULT",43.6603874468082,-79.3953783181415,0,"Galbraith Rd / King's College Rd",17,FALSE,"1113",1000,TRUE,NA,"M5S",NA,"Galbraith Rd / King's College Rd"
+"7359","Rosedale Park (20 Scholfield Ave)","REGULAR",43.682645,-79.377557,0,"Rosedale Park (20 Schofield Ave)",23,FALSE,"647-627-7470",1000,TRUE,NA,NA,NA,NA
+"7360","Concord Ave / Dewson St","REGULAR",43.656945,-79.424911,0,"Concord Av / Dewson St",17,FALSE,"647-632-1495",1000,TRUE,NA,NA,NA,NA
+"7361","Hocken Ave / Vaughan Rd","REGULAR",43.6817346,-79.4184725,0,"Hocken Ave./Vaughan Rd.",19,FALSE,"647-632-3844",1000,TRUE,NA,NA,NA,NA
+"7362","St Clair Ave W / Bathurst St.","REGULAR",43.683296,-79.418734,0,"St Clair Ave W / Bathurst St.",19,FALSE,"647-631-4703",1000,TRUE,NA,NA,NA,NA
+"7363","Wells Hill Ave / St Clair Ave W","REGULAR",43.683351,-79.41562,0,"Wells Hill Ave / St Clair Ave W",15,FALSE,"647-632-4134",1000,TRUE,NA,NA,NA,NA
+"7364","Queen St E / Nursewood Rd","REGULAR",43.673831,-79.281455,0,"Queen St E / Nursewood Rd (Neville Park Loop)",18,FALSE,"647-638-6254",1000,TRUE,NA,NA,NA,NA
+"7365","Kewbeach Ave / Kenilworth Ave","REGULAR",43.666325,-79.3014,0,"Kew Beach Ave / Kenilworth Ave",23,FALSE,"647-640-6506",1000,TRUE,NA,NA,NA,NA
+"7366","Fort York Blvd / Bathurst St - SMART","SMARTMAPFRAME",43.639052,-79.399792,0,"Fort York Blvd / Bathurst St SMART",20,FALSE,"647-640-6519",1000,TRUE,NA,NA,NA,NA
+"7367","Alma Ave / Gladstone Ave SMART","SMARTMAPFRAME",43.6448617,-79.42822,0,"Alma Ave / Gladstone Ave SMART",15,FALSE,"647-642-3920",1000,TRUE,NA,NA,NA,NA
+"7368","Lisgar St / Dundas St W - SMART","SMARTMAPFRAME",43.6493472,-79.42668,0,"Lisgar St / Dundas St SMART",8,FALSE,"647-646-6416",1000,TRUE,NA,NA,NA,NA
+"7371","Eglinton Ave W / Henning Ave SMART","SMARTMAPFRAME",43.7063473,-79.40161,0,"Eglinton Ave W / Henning Ave SMART",20,FALSE,"647-640-6538",1000,TRUE,NA,NA,NA,NA
+"7373","George St / King St E","REGULAR",43.6509552,-79.3707,0,"George St / King St E",15,FALSE,"647-646-9532",1000,TRUE,NA,NA,NA,NA
+"7374","Frederick St / The Esplanade","REGULAR",43.6487245,-79.36839,0,"Frederick St / The Esplanade",19,FALSE,"647-710-2519",1000,TRUE,NA,NA,NA,NA
+"7375","Front St E / Scott St","REGULAR",43.6476616,-79.37549,0,"Front St E / Scott St",11,FALSE,"647-718-7245",1000,TRUE,NA,NA,NA,NA
+"7376","Frobisher Ave / Lascelles Blvd","REGULAR",43.696708,-79.40045,0,"Frobisher Ave / Lascelles Blvd",19,FALSE,"647-719-1504",1000,TRUE,NA,NA,NA,NA
+"7377","Balliol St / Yonge St  SMART","SMARTMAPFRAME",43.6978701,-79.39419,0,"Balliol St / Yonge St SMART",36,FALSE,"647-719-2731",1000,TRUE,NA,NA,NA,NA
+"7378","Yonge St / Davisville Ave","REGULAR",43.6975969,-79.39654,0,"Yonge St / Davisville Ave",15,FALSE,"647-719-3185",1000,TRUE,NA,NA,NA,NA
+"7379","Lawton Blvd / Yonge St","REGULAR",43.6910667,-79.39535,0,"Lawton Blvd / Yonge St",15,FALSE,"437-688-9410",1000,TRUE,NA,NA,NA,NA
+"7380","Erskine Ave / Yonge St SMART","SMARTMAPFRAME",43.7112153,-79.39894,0,"Erskine Ave / Yonge St SMART",16,FALSE,"437-992-5714",1000,TRUE,NA,NA,NA,NA
+"7381","Yonge St / Orchard View Blvd","REGULAR",43.7083577,-79.398862,0,"Roehampton Ave / Yonge St",35,FALSE,"437-688-8762",1000,TRUE,NA,"M4P 2E6",NA,NA
+"7383","12 Harbour St","REGULAR",43.6425636,-79.3762,0,"12 Harbour St",15,FALSE,"437-688-7570",1000,TRUE,NA,NA,NA,NA
+"7384","Cumberland St / Bay St SMART","SMARTMAPFRAME",43.6704537,-79.39014,0,"Cumberland Ave / Bay St SMART",9,FALSE,"437-688-7658",1000,TRUE,NA,NA,NA,NA
+"7385","20 Charles St E","ELECTRICBIKESTATION",43.6691099,-79.38551,0,"20 Charles St E",32,TRUE,"437-688-7596",1000,TRUE,NA,NA,NA,NA
+"7386","D'Arcy St / McCaul St - SMART","SMARTMAPFRAME",43.655227,-79.39201,0,"D'Arcy St, /McCaul St. SMART",15,FALSE,"647-719-3738",1000,TRUE,NA,NA,NA,NA
+"7387","Mortimer Ave / Carlaw Ave SMART","SMARTMAPFRAME",43.685167,-79.34962,0,"Mortimer Ave / Carlaw Ave SMART",12,FALSE,"647-271-5899",1000,TRUE,NA,NA,NA,NA
+"7388","Broadview Subway Station","REGULAR",43.6772,-79.35858,0,"Broadview Ave / Danforth Ave",15,FALSE,"437-688-7724",1000,TRUE,NA,NA,FALSE,NA
+"7389","College Park - Gerrard Entrance","REGULAR",43.658938,-79.383518,0,"College Park- Gerrard Entrance",25,FALSE,"437-688-7824",1000,TRUE,NA,NA,NA,NA
+"7391","Yonge St / Dundas Sq","REGULAR",43.655766,-79.3802,0,"Yonge St / Dundas Sq",31,FALSE,"437-688-7962",1000,TRUE,NA,NA,NA,"Yonge St / Dundas Sq"
+"7395","Dentonia Park","REGULAR",43.694341,-79.291416,0,"Dentonia Park Station",23,FALSE,"437-688-8093",1609.34,TRUE,NA,"J4G 29",NA,NA
+"7398","York St / Lake Shore Blvd W","REGULAR",43.641952,-79.380723,0,"York St / Lakeshore St W - South",19,FALSE,"437-688-8725",1609.34,TRUE,NA,"M5J 0A3",NA,NA
+"7399","Lower Jarvis St / Queens Quay E","REGULAR",43.64422,-79.36927,0,"Lower Jarvis / Queens Quay E",18,FALSE,"416-277-0432",1609.34,TRUE,NA,"M5E 1Z2",NA,NA
+"7400","Polson Pier","REGULAR",43.641675,-79.354006,0,"Polson Pier",23,FALSE,"437-688-8219",1609.34,TRUE,NA,"M5A 1A5",NA,NA
+"7403","Lascelles Blvd / Eglinton Ave W","REGULAR",43.70547,-79.40355,0,"Lascelles Blvd / Eglinton Ave W - SMART",19,FALSE,"416-301-4571",1609.34,TRUE,NA,"M4R 1A6",NA,NA
+"7404","Roehampton Ave / Mount Pleasant Rd","REGULAR",43.70942,-79.39139,0,"Roehampton Ave / Mount Pleasant Rd - SMART",19,FALSE,"416-302-1740",1609.34,TRUE,NA,"M4P 1R6",NA,NA
+"7407","University Ave / Queen St W","REGULAR",43.6505242421255,-79.386727025795,0,"250 University Ave ",19,FALSE,"437-244-2537",1609.34,TRUE,NA,"M5H 2N5",NA,NA
+"7409","Isabella St / Church St","REGULAR",43.66834,-79.38235,0,"Isabella St / Church St - SMART",19,FALSE,"437-688-8748",1609.34,TRUE,NA,"M4Y 1M9",NA,NA
+"7410","Howard St / Rose Ave","REGULAR",43.671278,-79.372127,0,"Howard St / Ontario St",19,FALSE,"416-275-2509",1609.34,TRUE,NA,"M4X 1J9",NA,NA
+"7411","Little Norway Park","REGULAR",43.635023,-79.399505,0,"Little Norway Park",22,FALSE,"416-294-9839",1609.34,TRUE,NA,"M5V 2Y9",NA,NA
+"7412","King St W / Crawford St","REGULAR",43.6417852,-79.4131148,0,"King St W / Crawford St - SMART",23,FALSE,"416-274-6829",1609.34,TRUE,NA,"M6K 3M5",NA,NA
+"7414","Keele St / Annette St","REGULAR",43.66402,-79.46418,0,"Keele St / Annette St - SMART",15,FALSE,"416-294-0509",1609.34,TRUE,NA,"M6P 2K9",NA,NA
+"7415","Keele St / Vine Ave","REGULAR",43.66686,-79.46526,0,"Keele St / Vine Ave - SMART",23,FALSE,"416-276-9729",1609.34,TRUE,NA,"M6P 3K2",NA,NA
+"7416","Spadina Ave / Blue Jays Way","REGULAR",43.641705,-79.393295,0,"Spadina Ave / Blue Jays Way",31,FALSE,"437-688-3096",1609.34,TRUE,NA,"M5V 0L7",NA,NA
+"7417","King St W / Jordan St","REGULAR",43.648928,-79.378623,0,"King St / Jordan St - SMART",10,FALSE,"437-992-6768",1609.34,TRUE,NA,"M5H 1C3",NA,NA
+"7418","College Park - Yonge St Entrance","REGULAR",43.65988,-79.38279,0,"College Park - Yonge Entrance",25,FALSE,"437-244-2552",1609.34,TRUE,NA,"M5B 2H4",NA,NA
+"7420","Barton Ave / Howland Ave - SMART","SMARTMAPFRAME",43.66842,-79.410585,0,"Barton St / Howland St - SMART",19,FALSE,"437-243-6447",1609.34,TRUE,NA,"M5R 3B5",NA,NA
+"7422","Tyndall Ave / King St W - SMART","SMARTMAPFRAME",43.638426,-79.429142,0,"Tyndall Ave / King St W - SMART",16,FALSE,"437-243-6484",1609.34,TRUE,NA,"M6K 2E2",NA,NA
+"7424","Merton St / Mount Pleasant Rd","REGULAR",43.697819,-79.38786,0,"Merton St / Mount Pleasant Rd - SMART",23,FALSE,"416-272-9253",1609.34,TRUE,NA,"M4S 1A7",NA,NA
+"7425","The Queensway at South Kingsway","REGULAR",43.63632,-79.47307,0,"The Queensway at South Kingsway - SMART",23,FALSE,"416-274-4381",1609.34,TRUE,NA,"M6S 5B7",NA,NA
+"7427","Northern Dancer Blvd / Lake Shore Blvd E","REGULAR",43.663162,-79.309765,0,"Northern Dancer Blvd / Lake Shore Blvd E",26,FALSE,"437-243-6512",1609.34,TRUE,NA,"M4L 6T1",FALSE,NA
+"7428","Woodbine Ave / Lake Shore Blvd E","REGULAR",43.665645,-79.304711,0,"Woodbine Ave / Lake Shore Blvd E",27,FALSE,"437-243-9195",1609.34,TRUE,NA,"M4L 1B8",NA,NA
+"7429","Woodbine Subway Station","SMARTMAPFRAME",43.686442,-79.313404,0,"Woodbine Subway Station - SMART",15,FALSE,"416-272-3861",1609.34,TRUE,NA,"M4C 4C1",NA,NA
+"7430","Marilyn Bell Park Tennis Court","REGULAR",43.633537,-79.437461,0,"Marilyn Bell Park Tennis Court",27,FALSE,"416-271-4978",1609.34,TRUE,NA,"M6K 3C1",NA,NA
+"7431","Gerrard St E / Leslie St","REGULAR",43.669813,-79.3335,0,"Gerrard St E / Leslie St",23,FALSE,"437-243-9031",1609.34,TRUE,NA,"M4M 2A1",NA,NA
+"7432","Frederick St / King St E","REGULAR",43.651118,-79.369411,0,"Frederick St / King St E",23,FALSE,"437-688-8434",1609.34,TRUE,NA,"M5A 4L4",NA,NA
+"7433","Dundas St E / Boulton Ave - SMART","SMARTMAPFRAME",43.663148,-79.347938,0,"Dundas St E / Boulton Ave - SMART",15,FALSE,"437-243-9272",1609.34,TRUE,NA,"M4M 2J6",NA,NA
+"7434","91 Via Italia","ELECTRICBIKESTATION",43.6766501425383,-79.4450302975533,0,"91 Via Italia",39,TRUE,"91 Via Italia  - EBS",450,TRUE,NA,"M6H 3S2",NA,"Via Italia / Mackay Ave"
+"7435","Rushton Rd / St Clair Ave W","REGULAR",43.68114,-79.4277,0,"Rushton Rd / St Clair Ave W - SMART",10,FALSE,"647-448-3863",1609.34,TRUE,NA,"M6G 3J4",NA,NA
+"7437","Concord Ave / Bloor St W","REGULARLITMAPFRAME",43.66189,-79.42679,0,"Concord Ave / Bloor St W - SMART",15,FALSE,"437-243-9475",1609.34,TRUE,NA,"M6H 1L1",NA,NA
+"7438","Gothic Ave / Quebec Ave","REGULAR",43.65389,-79.4675,0,"High Park Subway - SMART",19,FALSE,"416-278-4879",1609.34,TRUE,NA,"M6P 2V9",NA,NA
+"7441","Pacific Ave / Glenlake Ave","REGULAR",43.65716,-79.46478,0,"Pacific Ave / Glenlake Ave - SMART",23,FALSE,"416-278-8627",1609.34,TRUE,NA,"12445",NA,NA
+"7442","Lonsdale Rd / Spadina Rd","REGULAR",43.688526,-79.412903,0,"Lonsdale Rd / Spadina Rd",15,FALSE,"416-274-4582",1609.34,TRUE,NA,"M5T 2G7",NA,NA
+"7443","Dundas St E / George St","REGULAR",43.6574766,-79.373446,0,"Dundas St E / George St - SMART",25,FALSE,"437-243-6629",1609.34,TRUE,NA,"M6H 1N6",NA,NA
+"7444","Clendenan Ave / Rowland St - SMART","SMARTMAPFRAME",43.66073,-79.47149,0,"Clendenan Ave / Rowland St - SMART",20,FALSE,"437-243-6516",1609.34,TRUE,NA,"M6P 2X6",NA,NA
+"7445","Eastwood Rd / Coxwell Ave","REGULAR",43.673118,-79.318651,0,"Eastwood Rd / Coxwell Ave",19,FALSE,"437-244-2762",1609.34,TRUE,NA,"M4L 3B5",NA,NA
+"7446","Orchard Park","REGULAR",43.66908,-79.3149,0,"Orchard Park",19,FALSE,"437-244-2385",1609.34,TRUE,NA,"M4L 1M7",NA,NA
+"7447","Trent Ave / Danforth Ave","REGULAR",43.689293,-79.295895,0,"Trent Ave / Danforth Ave - SMART",23,FALSE,"437-244-2458",1609.34,TRUE,NA,"M4C 1M2",NA,NA
+"7448","Goodwood Park Crt / Dentonia Park","REGULAR",43.694826,-79.295208,0,"Goodwood Park Ct / Dentonia Park",19,FALSE,"437-244-2392",1609.34,TRUE,NA,"M4C2G5",NA,NA
+"7449","Cosburn Ave / Cedarvale Ave","REGULAR",43.697139,-79.31469,0,"Cosburn Ave / Cedarvale Ave",15,FALSE,"437-244-1847",1609.34,TRUE,NA,"M4C 4K7",NA,NA
+"7450","Carlaw Ave / Danforth Ave","REGULAR",43.678285,-79.347346,0,"Carlaw Ave / Danforth Ave - SMART",15,FALSE,"437-244-2674",1609.34,TRUE,NA,"M4K 1P7",NA,NA
+"7451","Western Battery Rd / Pirandello St","REGULAR",43.640075,-79.414156,0,"Western Battery Rd / Pirandello St",31,FALSE,"437-244-2559",1609.34,TRUE,NA,"M6K 3S4",NA,NA
+"7452","Bleecker St / St James Ave","REGULAR",43.669232,-79.374495,0,"Bleecker St / St James Ave",23,FALSE,"437-244-2078",1609.34,TRUE,NA,"M4X 1M2",NA,NA
+"7453","Jarvis St / Maitland Pl","REGULAR",43.6647688,-79.3772602,0,"Jarvis St / Maitland Pl",17,FALSE,"437-243-9422",1609.34,TRUE,NA,"M4Y 2G8",NA,NA
+"7454","Pottery Rd / Lower Don River Trail","REGULAR",43.688148,-79.362101,0,"Pottery Rd / Lower Don River Trail - SMART",15,FALSE,"437-244-2781",1609.34,TRUE,NA,"M4K 2B9",NA,NA
+"7455","E.T. Seton Park (Eglinton Ave E / Leslie St)","REGULAR",43.715951,-79.351246,0,"E.T. Seton Park (Eglinton Ave E / Leslie St)",27,FALSE,"437-243-9385",1609.34,TRUE,NA,"M4P 1A2",NA,NA
+"7457","Queen's Park Cres W / Hoskin Ave","REGULAR",43.665221,-79.394009,0,"Queen's Park Cres W / Hoskin Ave",23,FALSE,"437-243-6418",1609.34,TRUE,NA,"M5S 1H7",NA,NA
+"7458","Church St / Lombard St","REGULAR",43.651678,-79.375233,0,"Church St / Lombard St",17,FALSE,"437-244-2438",1609.34,TRUE,NA,"M5C 3H9",NA,NA
+"7459","St Clair Ave W / Winona Dr","REGULAR",43.680466,-79.432522,0,"St Clair Ave W / Winona Dr - SMART",11,FALSE,"437-244-2434",1609.34,TRUE,NA,"M6C 1C2",NA,NA
+"7460","High Park Outdoor Pool","REGULAR",43.650154,-79.464934,0,"High Park Outdoor Pool",26,FALSE,"437-244-2149",1609.34,TRUE,NA,"M6R 2Z3",NA,NA
+"7461","High Park Amphitheatre","REGULAR",43.646251,-79.46472,0,"High Park Amphitheatre",22,FALSE,"437-244-2557",17702.74,TRUE,NA,"M6R 2Z3",NA,NA
+"7462","Richmond St E / Yonge St","REGULAR",43.651838,-79.378743,0,"Richmond St E / Yonge St",17,FALSE,"437-243-6481",1609.34,TRUE,NA,"M5C 1X7",NA,NA
+"7465","Russell Hill Rd / St Clair Ave W","REGULAR",43.685569,-79.408019,0,"Russell Hill Rd / St Clair Ave W - SMART",19,FALSE,"437-244-2514",1609.34,TRUE,NA,"M4V 1R8",NA,NA
+"7466","Glendonwynne Rd / Bloor St W","REGULAR",43.65182,-79.47421,0,"Glendonwynne Ave / Bloor St W - SMART",19,FALSE,"437-244-2085",1609.34,TRUE,NA,"M6S 1N3",NA,NA
+"7467","Lower Simcoe St / Bremner Blvd","REGULAR",43.64283,-79.38409,0,"Lower Simcoe St / Bremner Blvd",14,FALSE,"437-244-2849",1609.34,TRUE,NA,"M5J 3A6",NA,NA
+"7468","Front St W / Simcoe St","REGULAR",43.6442,-79.38702,0,"Front St / Simcoe St",19,FALSE,"437-244-2882",1609.34,TRUE,NA,"M5V 2W6",NA,NA
+"7469","York St / Wellington St W ","REGULAR",43.646734,-79.38301,0,"Wellington St W / York St",23,FALSE,"437-244-2670",1609.34,TRUE,NA,"M5J 2R2",NA,NA
+"7473","Adelaide St W / Strachan Ave","REGULAR",43.6432530948273,-79.4123046990417,0,"Adelaide St W / Strachan Ave",11,FALSE,"437-244-1546",1609.34,TRUE,NA,"M6J 2S7",NA,NA
+"7474","Clarence Square","REGULAR",43.64407,-79.3929,0,"Clarence Square",23,FALSE,"437-244-1303",1609.34,TRUE,NA,"M5V 1H1",NA,NA
+"7475","Jarvis St / Richmond St E","REGULAR",43.652777,-79.372637,0,"Jarvis St / Richmond St E",19,FALSE,"437-241-5732",1609.34,TRUE,NA,"M5C 2H6",NA,NA
+"7476","Symington Ave / Dupont St","REGULAR",43.665538,-79.451263,0,"Symington Ave / Dupont St - SMART",15,FALSE,"437-243-9512",1609.34,TRUE,NA,"M6P 3S3",NA,NA
+"7477","Antler St / Campbell Ave - SMART","SMARTMAPFRAME",43.664182,-79.449066,0,"Antler St / Campbell Ave - SMART",20,FALSE,"437-241-5622",1609.34,TRUE,NA,"M6P 3V5",NA,NA
+"7478","Ellis Ave / The Queensway","REGULAR",43.63855,-79.46693,0,"Ellis Ave / The Queensway",19,FALSE,"437-244-1121",1609.34,TRUE,NA,"M6S 2X1",NA,NA
+"7479","Jane St / Bloor St W (Jane Subway Station)","REGULAR",43.64976,-79.48477,0,"Jane St / Bloor St W (Jane Subway Station)",15,FALSE,"437-244-2417",1609.34,TRUE,NA,"M6S 3Y2",NA,NA
+"7480","Neil McLellan Park","REGULAR",43.65143,-79.47779,0,"Neil McLellan Park - SMART",14,FALSE,"437-241-5714",1609.34,TRUE,NA,"M6S 3B4",NA,NA
+"7483","Southwood Dr / Kingston Rd - SMART","SMARTMAPFRAME",43.678685,-79.297974,0,"Southwood Dr / Kingston Rd - SMART",12,FALSE,"437-243-8986",1609.34,TRUE,NA,"M4E 1R3",NA,NA
+"7484","Briar Hill Ave / Yonge St - SMART","SMARTMAPFRAME",43.713524,-79.400162,0,"Briar Hill Ave / Yonge St - SMART",16,FALSE,"437-243-5891",1609.34,TRUE,NA,"M4P 2J2",NA,NA
+"7485","Blythwood Rd / Yonge St - SMART","SMARTMAPFRAME",43.716652,-79.399993,0,"Blythwood Rd / Yonge St - SMART",15,FALSE,"437-244-1061",1609.34,TRUE,NA,"M4P 2J6",NA,NA
+"7486","Gerrard St E / Main St","REGULAR",43.684261,-79.299332,0,"Gerrard St E / Main St",21,FALSE,"437-241-6030",1609.34,TRUE,NA,"M4E 2E1",NA,NA
+"7487","Eastwood Rd / Woodbine Ave - SMART","SMARTMAPFRAME",43.676216,-79.309395,0,"Eastwood Rd / Woodbine Ave",15,FALSE,"437-243-9359",1609.34,TRUE,NA,"M4E 2H8",NA,NA
+"7488","Summerhill Ave / Maclennan Ave","REGULAR",43.685924,-79.376304,0,"Summerhill Ave / Maclennan Ave",11,FALSE,"437-243-9051",1609.34,TRUE,NA,"M4M 2Z9",NA,NA
+"7489","Sumach St  / Queen St E","REGULAR",43.656638,-79.358749,0,"Sumach St  / Queen St E",19,FALSE,"437-241-6394",1609.34,TRUE,NA,"M5A 1V1",NA,NA
+"7493","Sackville St / Eastern Ave - SMART","SMARTMAPFRAME",43.653809,-79.3595,0,"Sackville St / Eastern Ave - SMART",12,FALSE,"437-243-9049",1609.34,TRUE,NA,"M5A 3E1",NA,NA
+"7494","Davenport Rd / McAlpine St - SMART","SMARTMAPFRAME",43.673768,-79.391253,0,"Davenport Rd / McAlpine St - SMART",12,FALSE,"437-243-6475",1609.34,TRUE,NA,"M5R 1H4",NA,NA
+"7496","Sunnyside Ave / The Queensway - SMART","SMARTMAPFRAME",43.6397,-79.44865,0,"Sunnyside Ave / The Queensway - SMART",19,FALSE,"437-243-9725",1609.34,TRUE,NA,"M6R 1B4",NA,NA
+"7497","128 Sterling Rd - SMART","SMARTMAPFRAME",43.654004,-79.444792,0,"128 Sterling Ave - SMART",20,FALSE,"437-241-6264",1609.34,TRUE,NA,"M6P 0A1",NA,NA
+"7501","Humberside Grounds - SMART","SMARTMAPFRAME",43.65917,-79.46997,0,"Humberside Grounds - SMART",20,FALSE,"437-243-9655",1609.34,TRUE,NA,"M6P 3G4",NA,"Glendonwynne Rd. / Quebec Ave."
+"7502","University Ave / College St (East)","REGULAR",43.65995,-79.38964,0,"University Ave / College St (East)",14,FALSE,"437-241-6388",1609.34,TRUE,NA,"M5G 1L7",NA,NA
+"7503","Gerrard St E / Malvern Ave - SMART","SMARTMAPFRAME",43.685221,-79.294766,0,"Gerrard St E / Malvern Ave - SMART",19,FALSE,"437-242-7296",1609.34,TRUE,NA,"M4E 2E1",NA,NA
+"7504","Gerrard St E / Victoria Park Ave - SMART","SMARTMAPFRAME",43.686962,-79.286864,0,"Gerrard St E / Victoria Park Ave",16,FALSE,"4372446997",1609.34,TRUE,NA,"M4E 3T6",NA,NA
+"7505","Ontario St / Adelaide St E -SMART","SMARTMAPFRAME",43.6535052,-79.3667689,0,"Ontario St / Adelaide St E -SMART",18,FALSE,"437-243-9011",1609.34,TRUE,NA,"M5A 2V1",NA,NA
+"7506","Berkeley St / Adelaide St E - SMART","SMARTMAPFRAME",43.653359,-79.365023,0,"Berkeley St / Adelaide St E - SMART",11,FALSE,"437-688-8179",1609.34,TRUE,NA,"M5A 2W7",NA,NA
+"7508","Berkeley St / Dundas St E - SMART","SMARTMAPFRAME",43.658816,-79.367318,0,"Berkeley St / Dundas St E - SMART",19,FALSE,"437-243-9390",1609.34,TRUE,NA,"M5A 2A7",NA,NA
+"7514","Humber Bay Shores Park / Marine Parade Dr","REGULAR",43.626265,-79.476723,0,"Humber Bay Shores Park / Marine Parade Dr",63,FALSE,"437-245-8082",1609.34,TRUE,NA,"1324",NA,NA
+"7515","Amos Waites Park","REGULAR",43.613606,-79.4883535,0,"Amos Waites Park",27,FALSE,"437-239-8119",1609.34,TRUE,NA,"M8V 1C5",NA,NA
+"7516","Superior Ave / Lake Shore Blvd W","REGULAR",43.6146692,-79.4873148,0,"Superior Ave / Lake Shore Blvd W",17,FALSE,"437-245-8205",1609.34,TRUE,NA,"M8V 2M1",NA,NA
+"7517","Ripley Ave / Ormskirk Ave","REGULAR",43.6390437,-79.4760109,0,"Ripley Ave / Ormskirk Ave",23,FALSE,"437-245-7858",1609.34,TRUE,NA,"M6S 3N9",NA,NA
+"7518","Lake Shore Blvd W / Colborne Lodge Dr","REGULAR",43.63771,-79.458173,0,"Lake Shore Blvd W / Colborne Lodge Dr",27,FALSE,"437-245-7491",1609.34,TRUE,NA,"M6S 5A3",NA,NA
+"7519","406 Oakwood Ave","REGULAR",43.6882706002271,-79.4393776708185,0,"406 Oakwood Ave, York, ON M6E 2W3",19,FALSE,"437-245-7175",1609.34,TRUE,NA,"L5C 1E4",NA,NA
+"7520","St Clarens Ave / Shirley St","REGULAR",43.6486599,-79.4376413,0,"St Clarens Ave / Shirley Ave",15,FALSE,"437-245-7286",1609.34,TRUE,NA,"M6K 1S9",NA,NA
+"7521","Emerson Ave / Bloor St W","REGULAR",43.659055,-79.440764,0,"Emerson Ave / Bloor St W",23,FALSE,"437-388-3260",1609.34,TRUE,NA,"M6H 1N6",NA,NA
+"7522","Wallace Ave / Pauline Ave","REGULAR",43.6632257,-79.4397052,0,"Wallace Ave / Pauline Ave",17,FALSE,"437-240-3049",1609.34,TRUE,NA,"M6H 1T5",NA,NA
+"7523","Lynn Williams St / East Liberty St - SMART","REGULAR",43.638925,-79.4168659,0,"Lynn Williams St / East Liberty St",15,FALSE,"437-388-5351",1609.34,TRUE,NA,"M6K 3N6",NA,NA
+"7524","Lisgar Park","REGULAR",43.6423847,-79.4240277,0,"Lisgar Park",23,FALSE,"437-245-6934",1609.34,TRUE,NA,"M6J 3X6",NA,NA
+"7526","Bartlett Parkette","REGULAR",43.6702236,-79.4360232,0,"Bartlett Parkette",23,FALSE,"437-245-6254",1609.34,TRUE,NA,"M6H 2B8",NA,NA
+"7527","Joseph J Piccininni Community Centre","REGULAR",43.675648,-79.4527619,0,"Joseph J Piccininni Community Centre",19,FALSE,"437-245-6129",1609.34,TRUE,NA,"M6E 1C5",NA,NA
+"7528","Spadina Rd / Austin Terrace","REGULAR",43.67883,-79.408723,0,"Spadina Rd / Austin Terrace",17,FALSE,"437-388-5612",1609.34,TRUE,NA,"M5R 2V5",NA,NA
+"7529","Symington Ave / Davenport Rd","REGULAR",43.6704403,-79.4532855,0,"Symington Ave / Davenport Rd",13,FALSE,"437-388-2709",1609.34,TRUE,NA,"M6N 1B9",NA,NA
+"7530","Sherbourne St N / Elm Ave","REGULAR",43.6752732,-79.3778458,0,"Sherbourne St N / Elm Ave",22,FALSE,"437-388-5525",1609.34,TRUE,NA,"M4W 2T4",NA,NA
+"7531","541 Huron St - SMART","SMARTMAPFRAME",43.670206,-79.402643,0,"541 Huron St",19,FALSE,"437-388-1073",1609.34,TRUE,NA,"M5R 2R6",NA,NA
+"7533","Housey St / Dan Leckie Way","REGULAR",43.63811,-79.397877,0,"Housey St / Dan Leckie Way",27,FALSE,"437-388-3076",1609.34,TRUE,NA,"M5V 3Y2",NA,NA
+"7534","Walnut Ave / Queen St W","REGULAR",43.645469,-79.411084,0,"Walnut Ave / Queen St W",15,FALSE,"437-388-5316",1609.34,TRUE,NA,"M6J 1G4",NA,NA
+"7536","Palmerston Ave / Dundas St W","REGULAR",43.651603,-79.408346,0,"Palmerston Ave / Dundas St W",23,FALSE,"437-388-1225",1609.34,TRUE,NA,"M6J 1V2",NA,NA
+"7537","Euclid Ave / Herrick St - SMART","SMARTMAPFRAME",43.661559,-79.413845,0,"Euclid Ave / Herrick St",16,FALSE,"437-333-8915",1609.34,TRUE,NA,"M6G 2T4",NA,NA
+"7538","Vaughan Rd /Wychwood Ave","REGULAR",43.6882821,-79.4253856,0,"Vaughan Rd /Wychwood Ave",19,FALSE,"437-388-1459",1609.34,TRUE,NA,"M6C 2N5",NA,NA
+"7539","Davisville Ave / Pailton Cres","REGULARLITMAPFRAME",43.69933,-79.39199,0,"Davisville Ave / Pailton Cres",19,FALSE,"437-388-2404",1609.34,TRUE,NA,"M4S 1E8",NA,NA
+"7540","Alvin Ave / St Clair Ave E","REGULAR",43.68871,-79.39264,0,"Alvin Ave / St Clair Ave E",19,FALSE,"437-227-3652",1609.34,TRUE,NA,"M4T 1M9",NA,NA
+"7541","Bellwoods Ave / Treford Pl - SMART","SMARTMAPFRAME",43.65246,-79.413528,0,"Bellwoods Ave / Treford Pl",20,FALSE,"",1609.34,TRUE,NA,"M6J 2R3",NA,NA
+"7542","Queen St W / John St","REGULAR",43.650077,-79.391291,0,"Queen St W / John St",23,FALSE,"437-333-9830",1609.34,TRUE,NA,"M5V 1Z8",NA,NA
+"7543","Nassau St / Bellevue Ave","REGULAR",43.6548421554225,-79.4035123249437,0,"Nassau St / Bellvue Ave",15,FALSE,"437-333-9510",1609.34,TRUE,NA,"M5T 2N4",NA,NA
+"7545","Baldwin St / Henry St","REGULAR",43.6560758,-79.393259,0,"Baldwin St / Henry St",15,FALSE,"437-333-8865",1609.34,TRUE,NA,"M5T 1L2",NA,NA
+"7546","Ross St / Cecil St - SMART","SMARTLITMAPFRAME",43.6568254,-79.3966159,0,"Ross St / Cecil St",18,FALSE,"437-333-8180",1609.34,TRUE,NA,"M5T 1N3",NA,NA
+"7547","Orde St / McCaul St","REGULAR",43.6580442,-79.3927404,0,"Orde St / McCaul St",15,FALSE,"",1609.34,TRUE,NA,"M5T 1W6",NA,NA
+"7548","St. Joseph St / Bay St - SMART","SMARTMAPFRAME",43.6658804,-79.3876101,0,"St Joseph St / Bay St",19,FALSE,"",1609.34,TRUE,NA,"M5S 3A5",NA,NA
+"7549","439 Sherbourne St","REGULAR",43.666051,-79.374161,0,"439 Sherbourne St",47,FALSE,"437-388-2640",1609.34,TRUE,NA,"M4X 1K6",NA,NA
+"7551","The Esplanade / Hahn Pl","REGULAR",43.649709,-79.364184,0,"The Esplanade / Hahn Pl",19,FALSE,"437-388-1665",1609.34,TRUE,NA,"M5A 4J6",NA,NA
+"7552","Lake Shore Blvd W / Thirty Ninth Street","REGULAR",43.5927419,-79.5403301,0,"Lake Shore Blvd W / Thirty Ninth Street",19,FALSE,"437-333-7918",1609.34,TRUE,NA,"M8W 1P9",NA,NA
+"7553","Lake Shore Blvd W / Twenty Fourth St","REGULAR",43.597082,-79.522768,0,"Lake Shore Blvd W / Twenty Fourth St",19,FALSE,"437-388-5658",1609.34,TRUE,NA,"M8V 1M1",NA,NA
+"7554","Humber College","REGULAR",43.5961692,-79.5160575,0,"Humber College",27,FALSE,"437-388-5700",1609.34,TRUE,NA,"M8V 4B6",NA,NA
+"7555","Royal York Rd / Mimico Ave","REGULAR",43.612063,-79.496573,0,"Royal York Rd / Mimico Ave",20,FALSE,"437-388-5958",1609.34,TRUE,NA,"M8V 1R6",NA,NA
+"7556","Windsor St / Newcastle St","REGULAR",43.6171635,-79.4971065,0,"Windsor St / Newcastle St",31,FALSE,"437-388-5890",1609.34,TRUE,NA,"M8Y 0A6",NA,NA
+"7557","The Queensway / High St","REGULAR",43.630874,-79.482407,0,"The Queensway / High St",23,FALSE,"437-388-2784",1609.34,TRUE,NA,"M8Y 1H6",NA,NA
+"7558","Berry Rd / Bell Manor Dr","REGULAR",43.63732,-79.489083,0,"Berry Rd / Bell Manor Dr",19,FALSE,"437-388-6054",1609.34,TRUE,NA,"M8Y 1W5",NA,NA
+"7559","Swansea Community Centre","REGULAR",43.6438036,-79.4770327,0,"Swansea Community Centre",15,FALSE,"",1609.34,TRUE,NA,"M6S 4Z9",NA,NA
+"7561","Annette St / Jane St","REGULAR",43.658574,-79.487246,0,"Annette St / Jane St",15,FALSE,"",1609.34,TRUE,NA,"M6S 3Z5",NA,NA
+"7562","Priscilla Ave / Dundas St W","REGULAR",43.664665,-79.489385,0,"Priscilla  Ave / Dundas St W",23,FALSE,"",1609.34,TRUE,NA,"M6S 2S1",NA,NA
+"7563","St Clair Ave W / Castleton Ave","REGULAR",43.668496,-79.485426,0,"St Clair Ave W / Castleton Ave",19,FALSE,"473-333-5383",1609.34,TRUE,NA,"M6N 4Z5",NA,NA
+"7564","Durie St / Dundas St W","REGULAR",43.665523,-79.484892,0,"Durie St / Dundas St W",23,FALSE,"437-333-4072",1609.34,TRUE,NA,"M6S 2S1",NA,NA
+"7565","St Clair Ave W / Gunns Rd","REGULAR",43.672079,-79.470171,0,"St Clair Ave W / Gunns Rd",23,FALSE,"437-333-3509",1609.34,TRUE,NA,"M6N 4X9",NA,NA
+"7566","Weston Rd / St Clair Ave W - SMART","REGULAR",43.673019,-79.467994,0,"Weston Rd / St Clair Ave W",19,FALSE,"",1609.34,TRUE,NA,"M6N 3P4",NA,NA
+"7567","Weston Lions Park","REGULAR",43.698841,-79.519472,0,"Weston Lions Park",27,FALSE,"437-333-3873",1609.34,TRUE,NA,"M9N 1H7",NA,NA
+"7568","Jameson Ave / Queen St W","REGULAR",43.63985,-79.43703,0,"Jameson Ave / Queen St W",26,FALSE,"437-288-9921",1609.34,TRUE,NA,"M6K 1M3",NA,NA
+"7569","Toronto Inukshuk Park","REGULAR",43.6323994,-79.4097818,0,"Toronto Inukshuk Park",47,FALSE,"437-388-4688",1609.34,TRUE,NA,"M6K 3C3",FALSE,NA
+"7570","Carlaw Ave / Dundas St E","REGULAR",43.665076,-79.341509,0,"Carlaw Ave / Dundas St E",17,FALSE,"437-388-5077",1609.34,TRUE,NA,"M4M 2T1",NA,NA
+"7571","Highfield Rd / Gerrard St E","REGULAR",43.671771,-79.324961,0,"Highfield Rd / Gerrard St E",19,FALSE,"437-388-4899",1609.34,TRUE,NA,"M4L 1Y7",NA,NA
+"7572","Cosburn Ave / Durant Ave","REGULAR",43.6935477,-79.3301658,0,"Cosburn Ave / Durant Ave",15,FALSE,"437-388-4591",1609.34,TRUE,NA,"M4J 3R7",NA,NA
+"7575","Bayview Ave / Lawren Harris Square","REGULAR",43.6548521,-79.3539768,0,"207 Eastern Avenue",15,FALSE,"437-388-2838",1609.34,TRUE,NA,"M5A 1H7",NA,NA
+"7576","Front St E / Bayview Avenue","REGULAR",43.6535,-79.354068,0,"Front St E / Bayview Avenue",23,FALSE,"437-388-2680",1609.34,TRUE,NA,"M5A 1H7",NA,NA
+"7577","Oak St / Sumach St","REGULAR",43.6617908,-79.361515,0,"Oak St / Sumach St",27,FALSE,"437-388-1962",1609.34,TRUE,NA,"M5A 2H4",NA,NA
+"7579","Glebe Rd W / Yonge St","REGULAR",43.7005976,-79.397345,0,"Glebe Rd / Yonge St",19,FALSE,"437-388-2475",1609.34,TRUE,NA,"M4S 1Z7",NA,NA
+"7580","Hillsdale Ave W / Yonge St","REGULAR",43.7029672,-79.3979073,0,"Hillsdale Ave W / Yonge St",15,FALSE,"437-230-8826",1609.34,TRUE,NA,"M4S 2A5",NA,NA
+"7581","High Park Ave / Dundas St W","REGULAR",43.6653032,-79.4701178,0,"345 High Park Ave",15,FALSE,"437-229-5037",1609.34,TRUE,NA,"M6P 2S8",NA,NA
+"7582","Alameda Ave / Vaughan Rd - SMART","SMARTMAPFRAME",43.690903,-79.4375028,0,"Amaleda Ave / Vaughan Rd",16,FALSE,"437-227-7595",1609.34,TRUE,NA,"M6C 2R1",NA,NA
+"7583","Eglinton Ave W / Scarlett Rd","REGULAR",43.6834703,-79.5108942,0,"Eglinton Ave W / Scarlett Rd",22,FALSE,"437-226-9799",1609.34,TRUE,NA,"M9A",NA,NA
+"7584","The Pond Rd / Sentinel Rd","REGULAR",43.7696262,-79.5025943,0,"The Pond Rd / Sentinel Rd",27,FALSE,"437-226-5422",1609.34,TRUE,NA,"M3J 2S5",NA,NA
+"7585","Sentinel Rd / Finch Corridor Trail","REGULAR",43.7641485,-79.5012809,0,"Sentinel Rd / Finch Hydro Corridor",27,FALSE,"437-728-4637",1609.34,TRUE,NA,"M3J 1V6",NA,NA
+"7586","Finch West Subway Station","REGULAR",43.76521,-79.491281,0,"Finch West Subway Station",23,FALSE,"437-232-4682",1609.34,TRUE,NA,"M3J 2W1",NA,NA
+"7587","Dufferin St / Finch Corridor Trail","REGULAR",43.7724019,-79.4675395,0,"Dufferin St / Finch Hydro Recreational Trail",19,FALSE,"437-213-1564",1609.34,TRUE,NA,"M3H 5T3",NA,NA
+"7588","G Ross Lord Park","REGULAR",43.7781116,-79.467963,0,"G Ross Lord Park",19,FALSE,"437-225-0810",1609.34,TRUE,NA,"M3H 5T4",NA,NA
+"7589","Torresdale Ave / Antibes Dr","REGULAR",43.77953,-79.45233,0,"Torresdale Ave / Antibes Dr",15,FALSE,"437-241-5412",1609.34,TRUE,NA,"M2R 3T2",NA,NA
+"7590","Esther Shiner Stadium","REGULAR",43.7774374,-79.4447096,0,"Ester Shiner Stadium",23,FALSE,"437-240-9164",1609.34,TRUE,NA,"M2R 1Y6",NA,NA
+"7591","Elwood Blvd / Avenue Rd","REGULAR",43.707049,-79.40966,0,"Elwood Blvd / Avenue Rd",23,FALSE,"437-225-3075",1609.34,TRUE,NA,"M5N 3B1",NA,NA
+"7593","Roehampton Ave / Bayview Ave","REGULAR",43.711751,-79.378615,0,"Roehampton St / Bayview Ave",27,FALSE,"",1609.34,TRUE,NA,"M4P 1S7",NA,NA
+"7594","Fleming Cres / Bayview Ave","REGULAR",43.707045,-79.375437,0,"Fleming Cres / Bayview Ave",15,FALSE,"437-221-3249",1609.34,TRUE,NA,"M4G 3C1",NA,NA
+"7595","Moore Park","REGULAR",43.693256,-79.383238,0,"Moore Park",15,FALSE,"",1609.34,TRUE,NA,"M4T 2H3",NA,NA
+"7596","Langford Ave / Danforth Ave - SMART","SMARTMAPFRAME",43.6800218,-79.3405681,0,"840 Danforth Ave",32,FALSE,"",1609.34,TRUE,NA,"M4J 1L7",NA,"Langford / Danforth"
+"7597","Yonge St / Golfdale Rd","REGULAR",43.732016,-79.403637,0,"Yonge St / Golfdale Rd",15,FALSE,"437-223-4626",1609.34,TRUE,NA,"M4N 2M6",NA,NA
+"7598","Teddington Park Ave","REGULAR",43.732975,-79.40401,0,"Teddington Park Ave",15,FALSE,"437-221-7591",1609.34,TRUE,NA,"M4N 2M8",NA,NA
+"7599","Richmond St W / York St","REGULAR",43.650745,-79.383633,0,"Richmond St W / York St",17,FALSE,"437-235-9628",1609.34,TRUE,NA,"M5H 3K6",NA,NA
+"7600","Ursula Franklin St / Huron St - SMART","SMARTMAPFRAME",43.660274,-79.398049,0,"Ursula Franklin St / Huron St",20,FALSE,"437-220-4937",1609.34,TRUE,NA,"M5S 2S2",NA,NA
+"7601","Brick Works","REGULAR",43.683884,-79.36647,0,"Brick Works",25,FALSE,"437-220-8757",1609.34,TRUE,NA,"M4W",NA,NA
+"7602","Woodbine Ave / O'Connor Dr","REGULAR",43.699281,-79.318802,0,"Woodbine Ave / O'Connor Dr",19,FALSE,"437-2439359",1609.34,TRUE,NA,"M4C 4G9",NA,NA
+"7604","St Columba Pl / St Clair Ave E","REGULAR",43.70567,-79.310554,0,"St Columba Pl / St Clair Ave E",18,FALSE,"437-213-8222",1609.34,TRUE,NA,"M4B 1M8",NA,NA
+"7605","Lumsden Ave / Eastdale Ave","REGULAR",43.6941354819917,-79.3005871877529,0,"Lumsden Ave / Eastdale Ave",20,FALSE,"437-236-2545",1609.34,TRUE,NA,"M4C 4Z9",NA,NA
+"7606","Dawes Rd / Taylor Creek Trl","REGULAR",43.696631,-79.297436,0,"Dawes Rd / Taylor Creek Trl",19,FALSE,"437-234-4358",1609.34,TRUE,NA,"M4C 5L3",NA,NA
+"7607","Fairmount Park","REGULAR",43.6765897,-79.3163022,0,"Fairmount Park",19,FALSE,"437-235-8009",1609.34,TRUE,NA,"A1a1a1",NA,NA
+"7608","Wilket Creek Park","REGULAR",43.720645,-79.355474,0,"Wilket Creek Park",27,FALSE,"437-236-1899",1609.34,TRUE,NA,"M3C 2J7",NA,NA
+"7609","Sunnybrook Park","REGULAR",43.720233,-79.362092,0,"Sunnybrook Park",27,FALSE,"1812000361",1609.34,TRUE,NA,"M3C 3L7",NA,NA
+"7610","Kingston Rd / Beech Ave","REGULAR",43.680095,-79.291714,0,"Kingston Rd / Beech Ave",15,FALSE,"437-240-2580",1609.34,TRUE,NA,"M4E 1R9",NA,NA
+"7611","Victoria Park Ave / Danforth Ave","REGULAR",43.691468,-79.288619,0,"Victoria Park Ave / Danforth Ave",19,FALSE,"437-240-1301",1609.34,TRUE,NA,"M4C 1N2",NA,NA
+"7612","Livingston Rd / Guildwood Pkwy","REGULAR",43.747854,-79.199327,0,"Livingston Rd / Guildwood Pkwy",19,FALSE,"437-242-1692",1609.34,TRUE,NA,"M1E 1P4",NA,NA
+"7613","Livingston Rd (Highland Creek Trail)","REGULAR",43.7561681,-79.2026694,0,"Livingston Rd (Highland Creek Trail)",19,FALSE,"437-242-8864",1609.34,TRUE,NA,"M1E 1M4",NA,NA
+"7614","Morningside Park (Highland Creek Trail)","REGULAR",43.779353,-79.193023,0,"Morningside Park (Highland Creek Trail)",23,FALSE,"437-238-4415",1609.34,TRUE,NA,"M1E 3E8",NA,NA
+"7615","Colonel Danforth Park","REGULAR",43.7777114,-79.1659711,0,"Colonel Danforth Park",19,FALSE,"437-238-5317",1609.34,TRUE,NA,"M1C 1P8",NA,NA
+"7616","Waterfront Trail (Rouge Hill)","REGULAR",43.778015,-79.131911,0,"Waterfront Trail (Rouge Hill)",19,FALSE,"",1609.34,TRUE,NA,"M1C 5G5",NA,NA
+"7617","Starspray Blvd / Lawrence Ave E","REGULAR",43.788319,-79.123505,0,"Starspray Ave / Lawrence Ave E",19,FALSE,"437-238-7894",1609.34,TRUE,NA,"M1C 4P5",NA,NA
+"7618","Vaughan Rd / Oakwood Ave","REGULAR",43.6926825,-79.441042,0,"Vaughan Rd / Oakwood Ave",19,FALSE,"437-237-4562",1609.34,TRUE,NA,"A1a1a1",NA,NA
+"7619","Braemar Ave / Eglinton Ave W","REGULAR",43.7041957,-79.4094472,0,"Braemar Ave / Eglinton Ave W",14,FALSE,"437-237-2133",1609.34,TRUE,NA,"A1a1a1",NA,NA
+"7620","Eglinton Ave E / Redpath Ave","REGULAR",43.7078691,-79.39248,0,"Eglinton Ave W / Redpath Av",15,FALSE,"437-236-7168",1609.34,TRUE,NA,"A1a1a1",NA,NA
+"7622","Marie Curtis Park","REGULAR",43.5880774,-79.5432067,0,"Marie Curtis Park",23,FALSE,"437-236-4104",1609.34,TRUE,NA,"M8W 3P3",NA,NA
+"7623","Royal York Rd / Lake Shore Blvd W","REGULAR",43.6029904,-79.4926867,0,"Royal York Rd / Lake Shore Blvd W",19,FALSE,"437-239-5463",1609.34,TRUE,NA,"M8V 1W3",NA,NA
+"7624","Guildwood GO Station (South)","REGULAR",43.754978,-79.1971289,0,"Guildwood GO Station (South)",11,FALSE,"437-239-3229",1609.34,TRUE,NA,"M1E 2M3",NA,NA
+"7625","Yonge St / Lawrence Ave E","REGULAR",43.7254665,-79.4011545,0,"24 Lawrence Ave East",23,FALSE,"437-239-3419",1000,TRUE,NA,"M4N 1S1",NA,"Yonge St and Lawrence Ave"
+"7626","Rouge Hill GO Station","REGULAR",43.7805505,-79.1301203,0,"Rouge Hill GO Station",25,FALSE,"437-238-7002",1609.34,TRUE,NA,"M1C 5G4",NA,NA
+"7627","Shaw St / Essex St - SMART","SMARTMAPFRAME",43.667076,-79.425116,0,"Shaw St / Essex St - SMART",15,FALSE,"",1609.34,TRUE,NA,"M6G 3M4",NA,NA
+"7629","Lundy Ave / Étienne Brûlé Park","REGULAR",43.6625395,-79.5030161,0,"Lundy Ave / Etienne Brule Park",15,FALSE,"437-239-7974",1609.34,TRUE,NA,"M6S 2R5",NA,NA
+"7630","Twelfth St / Thirteenth St","REGULAR",43.6002896,-79.5108692,0,"Twelfth St / Thirteenth St",23,FALSE,"437-247-2289",1609.34,TRUE,NA,"M8V 4E2",NA,NA
+"7631","Florence Gell Park","REGULAR",43.6615467,-79.498398,0,"Florence Gell Park",15,FALSE,"437-240-4174",1609.34,TRUE,NA,"M6S 4Z4",NA,NA
+"7632","Chiltern Hill Rd / Eglinton Ave W","REGULAR",43.7004017,-79.4275305,0,"Chiltern Hill Rd / Eglinton Ave W",17,FALSE,"437-233-9741",1609.34,TRUE,NA,"M6C 2C1",NA,NA
+"7633","Noble St / Queen St W","REGULAR",43.6424558,-79.4296346,0,"1266 Queen St W",15,FALSE,"437-239-9032",1609.34,TRUE,NA,"M6K 1L3",NA,"Queen st w / noble st"
+"7635","Runnymede Rd / Annette St","REGULAR",43.6596299,-79.4799176,0,"Runnymede Rd / Annette St",15,FALSE,"437-249-4977",1609.34,TRUE,NA,"M6S 2Z6",NA,NA
+"7636","Bloor St W / Riverside Dr","REGULAR",43.647663,-79.487583,0,"2511 bloor st w",23,FALSE,"",1609.34,TRUE,NA,"M6S 5A6",NA,"Bloor st w / riverside Ave"
+"7637","Judson St / Royal York Rd","REGULAR",43.6162721,-79.4990363,0,"10 Judson St",19,FALSE,"",1609.34,TRUE,NA,"M8Z 1A6",NA,NA
+"7639","135 Queens Wharf Rd - SMART","SMARTMAPFRAME",43.6399714,-79.399404,0,"135 Queens Warf",16,FALSE,"0",1609.34,TRUE,NA,"M5V 0E4",NA,"Queens Wharf / Dan Leckie"
+"7640","Spadina Rd / St.Clair Ave West","REGULAR",43.683979,-79.410657,0,"333 St.Clair Ave West",15,FALSE,"",1609.34,TRUE,NA,"M4V",NA,NA
+"7641","Annette St / Dundas St W","REGULAR",43.6641174,-79.4588522,0,"2659 Dundas St W",15,FALSE,"",1609.34,TRUE,NA,"M6P 1X9",NA,NA
+"7642","Yonge St / St Clair Ave","REGULAR",43.6885046,-79.3940052,0,"1451 Yonge Street",19,FALSE,"",1609.34,TRUE,NA,"M4T 1Z2",NA,"Yonge / St Clair"
+"7643","Oriole Pkwy / Kilbarry Rd","REGULAR",43.6954486,-79.4026176,0,"80 Oriole Parkway",19,FALSE,"",1609.34,TRUE,NA,"M5P 2G8",NA,"Oriole / Kilbarry"
+"7644","East Lynn Ave / Danforth Ave","REGULAR",43.6850809,-79.3149901,0,"108 East Lynn Avenue",15,FALSE,"",1609.34,TRUE,NA,"M4C 1J7",NA,"East Lynn / Danforth"
+"7645","University of Toronto Scarborough","REGULAR",43.7842419,-79.1849889,0,"1295-1307 Military Trail",16,FALSE,"",1609.34,TRUE,NA,"M1C 1A5",NA,NA
+"7646","University Ave / Richmond St W","REGULAR",43.6498190344626,-79.3864127025162,0,"200 University Avenue",15,FALSE,"",1609.34,TRUE,NA,"M5H 4G1",NA,NA
+"7647","Elm St/ University Ave (East Side)","REGULAR",43.656373,-79.3878104,0,"117 Elm Street",17,FALSE,"",1609.34,TRUE,NA,"M5G 1X8",NA,"Elm St / University Ave"
+"7650","St Clair West Subway Station - Heath Entrance","REGULAR",43.686352,-79.415894,0,"2 Heath Street West",22,FALSE,"",1609.34,TRUE,NA,"M5P 3L6",NA,"Heath / Lower Village Gate"
+"7654","Bloor St W / Pacific Ave","REGULAR",43.6541245,-79.4636388,0,"3 Pacific Avenue",7,FALSE,"",1609.34,TRUE,NA,"M6P 3K6",NA,NA
+"7655","Danforth Ave / Dewhurst Blvd","REGULAR",43.680207,-79.339243,0,"896 Danforth Avenue",15,FALSE,"",1609.34,TRUE,NA,"M4J 1L9",NA,"Danforth/Dewhurst"
+"7656","Bloor St W / Brock Ave","REGULAR",43.6589882,-79.438715,0,"Bloor St W / Brock Av",11,FALSE,"",1609.34,TRUE,NA,"M6H 1M9",NA,"Bloor / Brock"
+"7657","1 Market St - SMART","ELECTRICBIKESTATION",43.6469928,-79.3706665,0,"1 Market St",19,TRUE,"",1609.34,TRUE,NA,"M5E 1N1",NA,"Jarvis / esplanade"
+"7658","King's Mill Park","REGULAR",43.649204068767,-79.4933633420141,0,"2639 Bloor St W",27,FALSE,"",1609.34,TRUE,NA,"M8X 1A3",NA,"Bloor St. W and Old Mill Trail"
+"7659","Amroth Ave / Danforth Ave","REGULAR",43.6856128,-79.3116827,0,"Amroth Ave / Danforth Ave",19,FALSE,"",1609.34,TRUE,NA,"M4C 1K1",NA,"Amroth/Danforth"
+"7660","285 Victoria St","REGULAR",43.656633,-79.379625,0,"26 Dundas Street East",39,FALSE,"",1609.34,TRUE,NA,"M5B 2L6",NA,NA
+"7662","Beaty Ave / Queen St W","REGULAR",43.6393107,-79.4408141,0,"85 Beaty Avenue",19,FALSE,"",1609.34,TRUE,NA,"M6K 3B3",NA,"Beaty Ave / Queen st W"
+"7663","Kilgour Rd / Rumsey Rd","REGULAR",43.718039,-79.371914,0,"98 Glenvale Boulevard",17,FALSE,"",1609.34,TRUE,NA,"M4G 2V9",NA,"Kilgour Rd / Rumsey Rd"
+"7664","Sunnybrook Health Centre - L Wing","REGULAR",43.72268,-79.37644,0,"60 Raab Blvd",15,FALSE,"",1609.34,TRUE,NA,"M4N 1J7",NA,NA
+"7665","Sunnybrook Health Centre - S Wing","REGULAR",43.720998,-79.377456,0,"Test",11,FALSE,"",1609.34,TRUE,NA,"M4N 3M5",NA,NA
+"7666","Dundas St W / St Helen's Ave - SMART","SMARTMAPFRAME",43.6504218,-79.4407647,0,"505 College Street",26,FALSE,"",1609.34,TRUE,NA,"M6K 1V6",NA,NA
+"7667","Spadina Ave / Sussex Ave - SMART","REGULAR",43.664028,-79.4029787,0,"698 Spadina Avenue",35,FALSE,"000-000-000",1609.34,TRUE,NA,"M5S 2H8",NA,"Spadina/Sussex"
+"7668","Simcoe St / Dundas St W - SMART","ELECTRICBIKESTATION",43.655103,-79.389295,0,"Simcoe St / Dundas St W",20,TRUE,"4168489062",1609.34,TRUE,NA,"M5G 1W7",NA,"Simcoe St / Dundas St W"
+"7670","Yonge St / Woburn Ave - SMART","SMARTMAPFRAME",43.7281464,-79.4032194,0,"3180 Yonge Street",12,FALSE,"4372382470",1609.34,TRUE,NA,"M4N 2L1",NA,NA
+"7671","Yonge St / Montgomery Ave - SMART","SMARTMAPFRAME",43.7096085957009,-79.3991512500562,0,"25 Montgomery Ave",12,FALSE,"4372381831",1609.34,TRUE,NA,"M4R 0A1",NA,"Yonge St. and Montgomery"
+"7675","1525 Dundas St W","REGULAR",43.64957,-79.432446,0,"1529 Dundas Street West",15,FALSE,"",16093.4,TRUE,NA,"M6K 1T6",NA,NA
+"7676","York University (Glendon Campus) - SMART","SMARTMAPFRAME",43.7273654882463,-79.3814254607724,0,"1 Chedington Pl, North York, ON M4N 3R4",16,FALSE,"",16093.4,TRUE,NA,"M4N 3R4",NA,NA
+"7677","1303 Yonge St - SMART","SMARTMAPFRAME",43.6846177,-79.3924592,0,"1303 YONGE Street",16,FALSE,"437-243-6382",16093.4,TRUE,NA,"M4T 2Y9",NA,NA
+"7678","York University Station (South) - SMART","SMARTMAPFRAME",43.77345,-79.5002,0,"York University Station - SMART",16,FALSE,"437-992-6306",16093.4,TRUE,NA,"M3J",NA,NA
+"7679","York University Station (North)","REGULAR",43.7741,-79.5005,0,"York University Station",15,FALSE,"437-388-2557",100,TRUE,NA,"M3J",NA,NA
+"7680","Princes' Blvd / Nunavut Rd","REGULAR",43.6333523484014,-79.4143631307301,0,"PRINCES' BLVD / NOVA SCOTIA AVE",19,FALSE,"437-241-4560",1609.34,TRUE,NA,"M6K 3C3",NA,NA
+"7681","25 Booth Ave","ELECTRICBIKESTATION",43.6544839,-79.341057,0,"25 BOOTH AVE",23,TRUE,"",1609.34,TRUE,NA,"M4M 2M3",NA,NA
+"7682","Bathurst St / Front St W","REGULAR",43.6413479,-79.4013882,0,"Bathurst St / Front St W",27,FALSE,"647-620-9421",3218.68,TRUE,NA,"M5V 2P1",NA,NA
+"7684","Bay St / Harbour St (East)","REGULAR",43.64215,-79.377,0,"Bay St / Harbour St (East)",23,FALSE,"",1609.34,TRUE,NA,"M5E",NA,NA
+"7685","King St W / Brant St","REGULAR",43.645102,-79.3974498,0,"522 King Street West",22,FALSE,"",1000,TRUE,NA,"M5V 1L7",NA,"King / Brant"
+"7686","Lower Jarvis St / The Esplanade","REGULAR",43.6478206,-79.3704721,0,"The Esplanade & Lower Jarvis St",15,FALSE,"",1000,TRUE,NA,"M5E 1Z2",NA,"The Esplanade & Lower Jarvis St"
+"7687","Bloor St W / Gladstone Ave - SMART","SMARTMAPFRAME",43.6602021,-79.4342726,0,"1101 Bloor Street West, Toronto",10,FALSE,"",1000,TRUE,NA,"M6H 1M8",NA,"Bloor / Gladstone"
+"7688","High Park Blvd / Parkside Dr","REGULAR",43.644887,-79.4564117,0,"200 Parkside Drive",15,FALSE,"",1000,TRUE,NA,"M6R 0A1",NA,"High Park Blvd / Parkside Dr"
+"7691","Christie St / Dupont St","REGULAR",43.67168,-79.421192,0,"Christie St / Dupont St",19,FALSE,"",1000,TRUE,NA,"M6G 1Z4",NA,"Christie St / Dupont St"
+"7692","85 Lee Ave","ELECTRICBIKESTATION",43.6700692,-79.2971326,0,"85 Lee Ave",26,TRUE,"",50,TRUE,NA,"M4E 2P1",NA,"Queen St E / Lee Ave"
+"7693","Mutual St / Shuter St (Arena Gardens)","REGULAR",43.6559476,-79.3755883,0,"78 Mutual Street - SMART Vault",19,FALSE,"",1000,TRUE,NA,"M5B 2A9",NA,"Mutual St / Shuter St"
+"7694","Victoria Park Ave / Dawes Rd","REGULAR",43.706466,-79.29511,0,"Victoria Park Ave / Dawes Rd",19,FALSE,"",1000,TRUE,NA,"M4B 2K3",NA,"Victoria Park Ave / Dawes Rd"
+"7695","Queen St E / Joseph Duggan Rd","REGULAR",43.6677628,-79.3081171,0,"Queen St E and Joseph Duggan Rd - SMART Vault",18,FALSE,"",1000,TRUE,NA,"M4L 3Y2",NA,NA
+"7696","Heyworth Cres / Kingston Rd","REGULAR",43.6750806,-79.3068697,0,"Heyworth Cres / Kingston Rd - SMART Vault",19,FALSE,"",1000,TRUE,NA,"M4L 1T7",NA,NA
+"7698","St Clair Ave W / Caledonia Rd","REGULAR",43.6754247,-79.4547813,0,"St Clair Ave W / Caledonia Rd - SMART Vault",13,FALSE,"",1000,TRUE,NA,"M6E 1C7",NA,NA
+"7699","St Clair Ave W / Oakwood Ave","REGULAR",43.678177,-79.435364,0,"St Clair Ave W / Oakwood Ave - SMART Vault",15,FALSE,"",1000,TRUE,NA,"M6H 2M1",NA,NA
+"7700","St Clair Ave W / Robina Ave","REGULAR",43.68005,-79.43469,0,"St Clair Ave W / Robina Ave - SMART Vault",15,FALSE,"",1000,TRUE,NA,"M6C1C6",NA,NA
+"7701","Roncesvalles Ave / Fermanagh Ave","REGULAR",43.6463144692452,-79.4487940701453,0,"Roncesvalles Ave / Fermanagh Ave - SMART Vault",19,FALSE,"",1000,TRUE,NA,"M6R",NA,NA
+"7702","111 Broadview Ave","ELECTRICBIKESTATION",43.6593483,-79.3499366,0,"111 Broadview Ave",18,TRUE,"",1000,TRUE,NA,"M4M 1H1",NA,NA
+"7703","Oak St / Sackville St","REGULAR",43.6613642,-79.3641171,10,"274 Oak St",19,FALSE,"",100,TRUE,NA,"M5A 3S7",NA,"Oak St and Sackville st"
+"7704","24 Mountjoy Ave","REGULAR",43.6808774,-79.3304491,0,"24 Mountjoy Ave - SMART Vault",17,FALSE,"",1000,TRUE,NA,"M4J 1J6",NA,NA
+"7705","Colgate Ave / Carlaw Ave","REGULAR",43.6623658,-79.3413344,0,"88 Colgate Ave - SMART Vault",19,FALSE,"",1000,TRUE,NA,"M4M 3L1",NA,"Colgate Ave and carlaw"
+"7706","Felstead Ave/Gillard Ave (Monarch Park)","REGULAR",43.6791345,-79.3263159,0,"Felstead Ave / Gillard Ave (Monarch Park) - SMART Vault",27,FALSE,"",1000,TRUE,NA,"M4J 1G4",NA,NA
+"7707","Coronation Park (Martin Goodman Trail)","REGULAR",43.635495,-79.4035221,0,"7972 Remembrance Drive",19,FALSE,"",350,TRUE,NA,"M5V 3T7",NA,NA
+"7708","101 Cedarvale Ave","ELECTRICBIKESTATION",43.6868681,-79.3110942,0,"101 cedarvale Ave",27,TRUE,"",50,TRUE,NA,"M4C 4J7",NA,"Cedarvale Ave And Strathmore Ave"
+"7709","Beltline Trail / Yonge St","REGULAR",43.6962302,-79.3950434,0,"5 Merton Street",23,FALSE,"",350,TRUE,NA,"M4S 3G4",NA,NA
+"7710","11 Spadina Rd","ELECTRICBIKESTATION",43.6677246,-79.4041365,0,"11 SPADINA RD",18,TRUE,"",350,TRUE,NA,"M5R2S9",NA,NA
+"7711","Havelock St / Dewson St","REGULAR",43.6554793,-79.4302462,0,"71 Havelock Street",15,FALSE,"",350,TRUE,NA,"M6H 3B3",NA,NA
+"7712","Queen St W / Shaw St","REGULAR",43.6442457,-79.4161044,0,"999 Queen Street West",23,FALSE,"",350,TRUE,NA,"M6J 2W2",NA,NA
+"7713","Temperance St / Bay St","REGULAR",43.6506,-79.381285,0,"55 Temperance St",22,FALSE,"",350,TRUE,NA,"M5H 2V6",NA,NA
+"7715","Lumsden Ave / Cedarvale Ave","REGULAR",43.693187,-79.314283,0,"324 Cedarvale Avenue",11,FALSE,"",350,TRUE,NA,"M4C 4K4",NA,NA
+"7716","Church St / The Esplanade","REGULAR",43.6469251,-79.3733192,0,"75 The Esplanade",19,FALSE,"",350,TRUE,NA,"M5E 1Z4",NA,"Church St / The Esplanade"
+"7717","Niagara St / Portland St","REGULAR",43.6425791,-79.4001173,0,"18 Portland Street",11,FALSE,"",350,TRUE,NA,"M5V 1C2",NA,NA
+"7718","St. Andrew's Playground Park","REGULAR",43.646552,-79.399586,0,"8 Maud Street",11,FALSE,"",350,TRUE,NA,"M5V 2M5",NA,NA
+"7719","Wolseley St / Augusta Ave","REGULAR",43.6484201,-79.4005192,0,"15 Denison Ave",28,FALSE,"",350,TRUE,NA,"M5T 2M4",NA,NA
+"7720","King St W / Portland St","SMARTMAPFRAME",43.644395,-79.4006543,0,"620 King Street West",32,FALSE,"",350,TRUE,NA,"M5V 1M6",NA,NA
+"7721","Widmer St / King St W","REGULAR",43.6463574,-79.391206,0,"360 King Street West",11,FALSE,"",350,TRUE,NA,"M5V 1J9",NA,NA
+"7724","Wellesley St E / Parliament St","REGULAR",43.6682342,-79.3702641,0,"280 Wellesley Street East",15,FALSE,"",350,TRUE,NA,"M4X 1G5",NA,NA
+"7725","Yonge St / Macpherson Ave","REGULAR",43.6791876,-79.390719,0,"1126 Yonge Street",15,FALSE,"",350,TRUE,NA,"M4W 2L8",NA,NA
+"7728","Randolph Ave / Perth Ave","REGULAR",43.6585504,-79.4497659,0,"152 Perth Avenue",19,FALSE,"",350,TRUE,NA,"M6P 4G5",NA,NA
+"7729","265 Armadale Ave","ELECTRICBIKESTATION",43.6501644,-79.4829691,0,"265 Armadale Ave",43,TRUE,"",1000,TRUE,NA,"M6S 1P5",NA,NA
+"7730","800 Fleet St (South)","ELECTRICBIKESTATION",43.6367098521271,-79.4088051779099,0,"800 Fleet Street",43,TRUE,"",350,TRUE,NA,"M5V 1A9",NA,"Fleet St and Stratchan"
+"7731","Victoria Park Ave / Kingston Rd","VAULT",43.68035,-79.28357,0,"1085 Kingston Rd",15,FALSE,"",400,TRUE,NA,"M4E 3S8",NA,"Victoria Park Ave / Kingston Rd"
+"7732","Kingston Rd / Warden Ave","VAULT",43.6882413593181,-79.2704662803324,0,"Kingston Rd / Warden Ave",14,FALSE,"",1000,TRUE,NA,"M1N 1R5",NA,"Kingston Rd / Warden Ave"
+"7733","Pharmacy Ave / Danforth Ave","VAULT",43.6929478,-79.2833998,0,"Pharmacy Ave / Danforth Ave",15,FALSE,"",1000,TRUE,NA,"M1L 4N7",NA,"Pharmacy Ave / Danforth Ave"
+"7734","Danforth Ave / Warden Ave","VAULT",43.6950192,-79.2718066,0,"Danforth Ave / Warden Ave",15,FALSE,"",1000,TRUE,NA,"M1L 4G2",NA,"Danforth Ave / Scotia Ave"
+"7735","Birchcliff Ave / Kingston Rd","VAULT",43.691688,-79.265027,0,"Birchcliff Ave / Kingston Rd",15,FALSE,"",1000,TRUE,NA,"M1M 1R9",NA,"Birchcliff Ave / Kingston Rd"
+"7736","Birchmount Rd / Kingston Rd","VAULT",43.6940129779426,-79.2625720454814,0,"Birchmount Rd / Kingston Rd",15,FALSE,"",1000,TRUE,NA,"M1N 3J6",NA,"Birchmount Rd / Kingston Rd"
+"7737","Kingston Rd / Glen Everest Rd","VAULT",43.697490048103,-79.2565514646278,0,"5 Glen Everest Rd (Rosetta McClain Gardens)",15,FALSE,"",1000,TRUE,NA,"M1N 1J2",NA,"Kingston Rd / Glen Everest Rd"
+"7738","Highview Ave / Kennedy Rd","VAULT",43.7024185814635,-79.2563167072858,0,"150 Highview Avenue",15,FALSE,"",1000,TRUE,NA,"M1N",NA,"Highview Ave / Kennedy Rd"
+"7739","Kingston Rd / Ridgemoor Ave","VAULT",43.7064361425743,-79.2510444335329,0,"2301 Kingston Rd",11,FALSE,"",1000,TRUE,NA,"M1N 1V1",NA,NA
+"7740","Sharpe St / Park St (Sandown Park)","VAULT",43.7105975,-79.2541175,0,"50 Natal St",15,FALSE,"",1000,TRUE,NA,"M1N",NA,NA
+"7741","Howard Park Ave / Parkside Dr","REGULAR",43.648657,-79.458111,0,"119 Constance Street",15,FALSE,"",350,TRUE,NA,"M6R 1S7",NA,NA
+"7742","Eglinton Ave W / Prospect Cemetery","VAULT",43.69415,-79.4578258,0,"2067 EglintonAve W",19,FALSE,"",1000,TRUE,NA,"M6E 2K7",NA,NA
+"7743","Eglinton Ave W / Gilbert Ave","VAULT",43.6926325,-79.4627536,0,"2343 Eglinton Ave W",19,FALSE,"",1000,TRUE,NA,"M6E 2L6",NA,NA
+"7744","Rogers Rd / Prospect Cemetery","VAULT",43.68323,-79.455765,0,"200 Rogers Rd",23,FALSE,"",1000,TRUE,NA,"M6E 4L1",NA,NA
+"7745","Bert Robinson Park","VAULT",43.688028,-79.460265,0,"BERT ROBINSON PARK",15,FALSE,"",1000,TRUE,NA,"M6E 4T8",NA,NA
+"7746","Marlee Ave / York Beltline Trail","VAULT",43.70163,-79.44099,0,"120 Marlee Ave",19,FALSE,"",1000,TRUE,NA,"M6E 3B6",NA,NA
+"7747","Eglinton Ave W / Ennerdale Rd","VAULT",43.69466,-79.45377,0,"1963 Eglinton Ave W",13,FALSE,"",1000,TRUE,NA,"M6E 4E2",NA,NA
+"7748","Bloor St W / Old Mill Trl","VAULT",43.6501687,-79.4963345,0,"2682 Bloor St W",19,FALSE,"",1000,TRUE,NA,"M8X 1A5",NA,NA
+"7749","Wendover Rd / Bloor St W (Green P)","VAULT",43.6492,-79.50602,0,"342 Prince Edward Dr N",15,FALSE,"",1000,TRUE,NA,"M8X 1B2",NA,NA
+"7750","Luttrell Ave / Danforth Ave","REGULAR",43.6897656,-79.2939525,0,"Luttrell Ave / Danforth Ave",15,FALSE,"",1000,TRUE,NA,"M4C 1M3",NA,NA
+"7751","Willingdon Blvd / Bloor St W (Green P)","VAULT",43.64817,-79.510392,0,"9 Willingdon Blvd",15,FALSE,"",1000,TRUE,NA,"M8X 2H1",NA,NA
+"7752","1926 Lake Shore Blvd W","VAULT",43.6357643,-79.4674917,0,"1926 Lake Shore Blvd W",23,FALSE,"",1000,TRUE,NA,"M6S 1A1",NA,NA
+"7753","36 Park Lawn Rd","VAULT",43.6236917,-79.4838132,0,"36A Park Lawn Road",15,FALSE,"",350,TRUE,NA,"M8V 0E5",NA,NA
+"7754","Walter Saunders Park","VAULT",43.6993270725894,-79.4493630391668,0,"481 Locksley Avenue",14,FALSE,"",350,TRUE,NA,"M6E 2S5",NA,NA
+"7755","Park Lawn Rd / Berry Rd","VAULT",43.6356059,-79.4934616,0,"316 Park Lawn Road",15,FALSE,"",350,TRUE,NA,"M8Y 3K2",NA,NA
+"7756","Tobermory Dr / Finch Corridor Trail","VAULT",43.7611741,-79.5114452,0,"Tobemory Dr / Finch Hydro Recreational Trail",19,FALSE,"",350,TRUE,NA,"M3N 2R7",NA,NA
+"7757","The Well","ELECTRICBIKESTATION",43.6430250551659,-79.3943013776132,0,"The Well",19,TRUE,"",350,TRUE,NA,"M5V 2H6",NA,NA
+"7758","Driftwood Ave / Finch Corridor Trail","VAULT",43.7603624,-79.5162777,0,"Driftwood Ave / Finch Hydro Trail",18,FALSE,"",1000,TRUE,NA,"M3N 2N4",NA,NA
+"7759","The Pond Rd / Shoreham Dr","VAULT",43.772445,-79.511912,0,"1804 Ian Macdonald Boulevard",15,FALSE,"",350,TRUE,NA,"M3J 3M4",NA,NA
+"7760","Grand Avenue Park","VAULT",43.62313,-79.4918,0,"45 Grand Avenue",21,FALSE,"",350,TRUE,NA,"M8Y 0A7",NA,NA
+"7761","Moss Park","REGULAR",43.655972,-79.370638,0,"152 Shuter Street",15,FALSE,"",350,TRUE,NA,"M5A 1V9",NA,NA
+"7762","College St / Henry St ","REGULAR",43.6591529,-79.3947953,0,"184 College St",13,FALSE,"",350,TRUE,NA,"M5S 3E4",NA,NA
+"7765","St. John's Rd / Dundas St W","REGULAR",43.6652676160587,-79.4750212288708,0,"St. John's Rd / Dundas St W",15,FALSE,"4168938980",400,TRUE,NA,"M6P 1T7",NA,"St. John's Rd / Dundas St W"
+"7766","Albany Ave / Bloor St W","REGULAR",43.665541444218,-79.4101031760574,0,"496 Bloor St W",15,FALSE,"W11- University - Rosedale",300,TRUE,NA,"M5S 1Y3",NA,NA
+"7767","Pioneer Village Subway Station","REGULAR",43.7764901626558,-79.5085364909097,0,"Pioneer Village Subway Station",11,FALSE,"416-893-8980",1000,TRUE,NA,"M7A 2C5",NA,NA
+"7768","Armoury St / Chestnut St","REGULAR",43.6535179969088,-79.3859106379593,0,"361 University Ave",14,FALSE,"Ward 10 - Spadina -Fort York",200,TRUE,NA,"M5G 1T3",NA,NA
+"7769","Lake Shore Blvd W / Brow Dr","REGULAR",43.5911999402508,-79.5444913304108,0,"Lake Shore Blvd W / Brow Dr",15,FALSE,"Long Branch Loop ",350,TRUE,NA,"M8W 3P6",NA,NA
+"7770","Spadina Ave / Sullivan St","REGULAR",43.6508278555267,-79.396980998217,0,"215 Spadina Ave",23,FALSE,"South-East of intersection ",300,TRUE,NA,"M5T 2C7",NA,NA
+"7771","St. Clair Ave W / Osler St","REGULAR",43.6738435600326,-79.4609261890243,0,"St. Clair Ave W / Osler St",11,FALSE,"1753 St. Clair Ave W",350,TRUE,NA,"M6N 1J4",NA,NA
+"7772","Simcoe St / King St W","REGULAR",43.6475083513062,-79.3860443655576,0,"Simcoe St / King St W",15,FALSE,"North- East of the Intersection ",350,TRUE,NA,NA,NA,NA
+"7773","Grenoble Dr / Gateway Blvd","VAULT",43.7151321109808,-79.3341362332046,0,"5 Grenoble Dr",14,FALSE,"Ward 16 - Fronting Grenoble Dr",500,TRUE,NA,"M3C 1C3",NA,NA
+"7774","Grenoble Dr / Deauville Ln","VAULT",43.7164967577466,-79.3308943993362,0,"48 Grenoble Dr",15,FALSE,"Ward 16 - 48 Grenoble drive ",500,TRUE,NA,"M3C 1C8",NA,NA
+"7775","Grenoble Dr / Vendome Pl","VAULT",43.7155379989674,-79.3281142766344,0,"75 Grenoble Dr",11,FALSE,"Ward 16 - 75 Grenoble Dr",500,TRUE,NA,"M3C 1E1",NA,NA
+"7776","Ferrand Dr / Rochefort Dr","VAULT",43.7196325352378,-79.3319995086678,0,"250 Ferrand Dr",19,FALSE,"Ward 16 - 250 Ferrand Dr",500,TRUE,NA,"M3C 3G8",NA,NA
+"7777","Thorncliffe Park Dr / Leaside Park Trail","VAULT",43.7040040529784,-79.3480701507874,0,"12 Thorncliffe Park Dr",15,FALSE,"Ward 15 - 12 Thorncliffe Park Dr",498,TRUE,NA,"M4H 1N8",NA,NA
+"7778","75 Thorncliffe Park Dr","VAULT",43.7051832827943,-79.3422472996295,0,"75 Thorncliffe Park Dr",11,FALSE,"Ward 15 - 75 Thorncliffe Park Dr",500,TRUE,NA,"M4H 1L4",NA,NA
+"7779","165 McRae Dr","VAULT",43.70656159598,-79.3678196509262,0,"165 McRae Dr",15,FALSE,"Ward 15 - 165 McRae Dr ",500,TRUE,NA,"M4G 1S8",NA,NA
+"7780","Mount Pleasant Rd / Davisville Ave - SMART","SMARTMAPFRAME",43.7008822568697,-79.3873601666591,0,"220 Davisville Ave (June Rowlands Park)",16,FALSE,"Ward 12 - 220 Davisville Ave (JR Park)",500,TRUE,NA,"M4S",NA,NA
+"7781","St Clair Ave W / Avenue Rd ","VAULT",43.6868893802823,-79.4009951314745,0,"525 Avenue Rd (Amsterdam Square)",15,FALSE,"Ward 12 - 525 avenue Rd (Amsterdam Sq)",500,TRUE,NA,"M4V 2J7",NA,NA
+"7782","Downsview Park Subway Station - SMART","SMARTMAPFRAME",43.753107,-79.479626,0,"25 Vitti St",20,FALSE,"Ward 6 - 25 Vitti St",500,TRUE,NA,"M3K 2C1",NA,"Downsview Park Subway Station"
+"7783","60 Carl Hall Rd - SMART","SMARTMAPFRAME",43.7482972,-79.4757057,0,"60 Carl Hall Rd",20,FALSE,"Ward 6 - 60 Carl Hall Rd",950,TRUE,NA,"M3K 2C1",NA,"60 Carl Hall Rd"
+"7784","Downsview Park Blvd / Keele St  - SMART","SMARTMAPFRAME",43.7367382926211,-79.4822719556809,0,"60 George Butchart Dr",19,FALSE,"Ward 6 - 60 George Butchart Dr",500,TRUE,NA,"M3K",NA,"Downsview Park Blvd / Keele St"
+"7785","Keele St / Dovehouse Ave - SMART","SMARTMAPFRAME",43.7494501,-79.4869662,0,"2 John Drury Dr",16,FALSE,"Ward 6 - 2 John Drury Dr",500,TRUE,NA,"M3M 2Y9",NA,"Keele St / Dovehouse Ave "
+"7787","HTO Park West","REGULAR",43.6373714593192,-79.3897695870331,0,"375 Queens Quay West",31,FALSE,"HTO Park West - Queen Quay W ",200,TRUE,NA,"M5V 1A2",NA,NA
+"7788","Queens Quay E / Lower Jarvis St ","REGULAR",43.6439276736633,-79.3687301736982,0,"Queens Quay E / Lower Jarvis St ",23,FALSE,"",100,TRUE,NA,NA,NA,NA
+"7789","75 Holly St","ELECTRICBIKESTATION",43.7063279,-79.3962499,0,"75 Holly St - Green P",23,TRUE,"75 Holly St - (Inside Green P )",500,TRUE,NA,"M4S 3A5",NA,"Holly St / Eglinton St "
+"7790","Lynn Williams St / Pirandello St ","REGULAR",43.639124514797,-79.4142316672161,0,"Lynn William St / Pirandello St ",17,FALSE,"",200,TRUE,NA,"M6K",NA,"Lynn William St / Pirandello St "
+"7791","Ossington Ave / Bruce St","REGULAR",43.6457023670517,-79.419331920537,0,"Ossington Ave / Bruce St",14,FALSE,"",350,TRUE,NA,NA,NA,"Ossington Ave / Bruce St"
+"7794","York St / Harbour St (Love Park)","REGULAR",43.640741,-79.3798521,0,"York St / Harbour St (Love Park)",15,FALSE,"",350,TRUE,NA,"M5J",NA,"york st and harbour st "
+"7795","519 Church St  - SMART","SMARTMAPFRAME",43.6668507774849,-79.3811457475684,0,"Barbara Hall Park",12,FALSE,"",100,TRUE,NA,NA,NA," Church St/ Monteith St "
+"7796","Dundas St E / River St","VAULT",43.661152,-79.358505,0,"Dundas St E / River St",19,FALSE,"",1000,TRUE,NA,NA,NA,"Dundas St E and River St"
+"7798","Shuter St/River St","VAULT",43.659296,-79.358035,0,"Shuter St / River St",12,FALSE,"",100,TRUE,NA,NA,NA,NA
+"7799","Danforth Ave / Danforth Rd","VAULT",43.6936220678415,-79.2771052969589,0,"Danforth Ave / Danforth Rd",15,FALSE,"Ward 20  @ 3475 Danforth Ave",500,TRUE,NA,"M1L 1E2",NA,NA
+"7800","Brimley Rd / McCowan District Park","VAULT",43.7270408636675,-79.2439140244675,0,"Brimley Rd / McCowan District Park",19,FALSE,"Ward 20 -150 Brimley Rd",1000,TRUE,NA,"M1M 3T1",NA,"Brimley Rd / McCowan District Park Trail"
+"7801","Parkcrest Dr / Kingston Rd","VAULT",43.7359671922425,-79.2199522148193,0,"39-45 Parkcrest Dr",15,FALSE,"Ward 20 - (39 -45  Parkcrest Dr)",1000,TRUE,NA,"M1M 3S5",NA,"Kingston Rd / Parkcrest Dr"
+"7802","King St W / Jameson Ave - SMART","SMARTMAPFRAME",43.637357958881,-79.4361797588608,0,"1430 King St W",11,FALSE,"Ward 4 - (1430 King St W)",350,TRUE,NA,"M6K 1H8",NA,"King St W / Jameson Ave"
+"7803","Scarborough Soccer Centre","VAULT",43.7154661,-79.2876595,0,"45 Fairfax Crescent, Toronto, ON, M1L 1Z6",19,FALSE,"Ward 20 - ( 45 Fairfax Cres)",300,TRUE,NA,"M1L 1Z6",NA,"Fairfax Crescent / Evandale Rd"
+"7804","Lansdowne Ave / Seaforth Ave ","VAULT",43.6429043959567,-79.4374605944775,0,"75 Lansdowne Ave",13,FALSE,"Ward 4 - (75 Lansdowne Ave)",350,TRUE,NA,"M6K 2W1",NA,NA
+"7805","Pharmacy Ave / Teesdale Pl","VAULT",43.6973560808749,-79.285287110197,0,"125 Pharmacy Ave",19,FALSE,"Ward 20 - (125 Pharmacy Ave)",500,TRUE,NA,"M1L 3E7",NA,"PHARMACY AVE AND TEESDALE PL"
+"7806","Danforth Rd / Birchmount Rd ","VAULT",43.70688,-79.26851,0,"438 Danforth Rd",15,FALSE,"Ward 20 - (438 Danforth Rd )",500,TRUE,NA,"M1L 3X6",NA,"Danforth Rd / Birchmount Rd "
+"7807","552 Birchmount Rd","VAULT",43.711762788596,-79.2702815288969,0,"552 Birchmount Rs",15,FALSE,"Ward 20 - (552 Birchmount Rd)",350,TRUE,NA,"M1K 1P4",NA,"Birchmount Rd /  Zenith Dr"
+"7808","Eastgate Cres / Pharmacy Ave ","VAULT",43.7110442448186,-79.2912731384558,0,"Eastgate Ct / Pharmacy Ave ",15,FALSE,"Ward 20 -(645 Pharmacy Ave)",350,TRUE,NA,"M1L 3H3",NA,"Eastgate Ct / Pharmacy Ave"
+"7809","Firvalley Ct / Warden Ave","VAULT",43.7032112,-79.2787149,0,"Firvalley Ct / Warden Ave",18,FALSE,"Ward 20 -(49 Firvalley Ct)",350,TRUE,NA,"M1L 1P2",NA,"Firvalley Ct / Warden Ave "
+"7810","Avenue Rd / Cumberland St ","VAULT",43.6698216950594,-79.3944461460327,0,"13 Avenue Rd",15,FALSE,"Ward 11 - (13 Avenue Rd)",100,TRUE,NA,"M5R 1A8",NA," Avenue Rd / Cumberland St "
+"7811","Midland Ave / Kingston Rd","VAULT",43.7128578,-79.2487086,0,"425 Midland Ave",18,FALSE,"Ward 20-(425 Midland Ave)",350,TRUE,NA,"M1N 4A5",NA,"Midland Ave/ Kingston  Rd"
+"7812","Bellamy Rd S / Kingston Rd","VAULT",43.7323277855009,-79.2249661987693,0,"10 Bellamy Rd S",19,FALSE,"Ward 20-(10 Bellamy Rd S)",35,TRUE,NA,"M1M 3N8",NA,"Bellamy Rd S / Kingston Rd"
+"7813","Yonge St / Merton St ","VAULT",43.6962750705313,-79.3962939619187,0,"1835 Yonge St. ",23,FALSE,"Ward 12 - (Davisville TTC Subway Station)",100,TRUE,NA,"M4S1X8",NA,"Yonge St / Merton St "
+"7814","Fenwood Ht / Kingston Rd","VAULT",43.7269016982168,-79.2292039658266,0,"Fenwood Ht / Kingston Rd",15,FALSE,"Ward 20 - (3105 Kingston Rd)",350,TRUE,NA,"M1M 1P1",NA,"Fenwood Ht / Kingston Rs"
+"7815","Avenue Rd / Macpherson Ave ","VAULT",43.6779437600995,-79.3983627858789,0,"Avenue Rd / Macpherson Ave ",15,FALSE,"Ward 12 - (226 Macpherson Ave)",500,TRUE,NA,"M4V 2M2",NA,NA
+"7816","Bay St / Dundas St W","VAULT",43.6553507784571,-79.383459667598,0,"Bay St / Dundas St W",26,FALSE,"Ward 13 - (65 Dundas St W)",200,TRUE,NA,"M5G 2C3",NA,"Bay St / Dundas St W"
+"7817","Shaw St / King St W","VAULT",43.6412561641921,-79.4150299404754,0,"Shaw St / King St W",15,FALSE,"Ward 10 - (1007 King St W)",350,TRUE,NA,"M6K 3N3",NA,"Shaw St / King St W "
+"7818","Soudan Ave / Yonge St ","VAULT",43.7043096,-79.3972815,0,"3 Soudan Ave",19,FALSE,"Ward 12 - (3 Soudan Ave)",350,TRUE,NA,"M4S 0C6",NA,"Soudan Ave / Yonge St"
+"7819","Avenue Rd / Oxton Ave ","VAULT",43.6971116030523,-79.4053729822784,0,"755 Avenue Rd",15,FALSE,"Ward 12 - (755 Avenue Rd)",350,TRUE,NA,"M5P 2J9",NA,NA
+"7820","1612 Danforth Ave ","ELECTRICBIKESTATION",43.6837078806533,-79.3226245363388,0,"1612 Danforth Ave ",15,TRUE,"EBS - (1612 Danforth Ave @CP110)",350,TRUE,NA,"M4C 1H6",NA,NA
+"7821","Lisgar St / Queen St W - SMART","SMARTMAPFRAME",43.6429917416414,-79.4235591156325,0,"1117 Queen St W ",20,FALSE,"Ward 9 - (1117 Queen St W )",100,TRUE,NA,"M6J 3X7",NA,NA
+"7822","Leslie St / Commissioners St  ","VAULT",43.6572754973901,-79.3266154419418,0,"Leslie St / Commissioners St  ",19,FALSE,"Ward14 - (1165 Lake Shore Blvd E)",300,TRUE,NA,"M4M 3M9",NA,"Leslie St / Commissioners St"
+"7823","Greenwood Ave / Sammon Ave","VAULT",43.6869867251666,-79.3347819828033,0,"346A Sammon Ave",11,FALSE,"Ward 14 - (346A Sammon Ave)",300,TRUE,NA,"M4J 2A3",NA,"Greenwood Ave / Sammon Ave"
+"7824","Warden Subway Station","VAULT",43.711610980233,-79.2805556566223,0,"701 Warden Ave",19,FALSE,"Ward 20 - (701 Warden Ave)",350,TRUE,NA,"M1L 3Z5",NA,"Warden Ave / St Claire Ave E"
+"7825","Kingston Rd / Scarborough Golf Club Rd","VAULT",43.7453110370026,-79.2097065078782,0,"Kingston Rd / Scarborough Golf Club Rd",14,FALSE,"Ward 24 - (78 Scarborough Gulf Club Rd)",500,TRUE,NA,"M1M 3C5",NA,"Kingston Rd / Scarborough Golf Club Rd"
+"7826","Greenwood Ave / Gerrard St E","VAULT",43.670369178032,-79.3278269864509,0,"Greenwood Ave / Gerrard St E",15,FALSE,"Ward 14 (208 Greenwood Ave)",350,TRUE,NA,"M4L 2R1",NA,NA
+"7827","Chatham Ave / Byron Ave","VAULT",43.6798678328407,-79.334246138623,0,"163 Chatham Ave",15,FALSE,"Ward 14 - (163 Chatham Ave)",500,TRUE,NA,"M4J 1K8",NA,"Chatham Ave / Byron Ave"
+"7828","Wakunda Pl / O'Connor Dr","VAULT",43.7160202437718,-79.3047092517501,0,"Wakunda Pl / O'Connor Dr",11,FALSE,"Ward 19 - (1665 O'Connor Dr)",500,TRUE,NA,"M4A 1W5",NA,NA
+"7829","Tiago Ave / Westview Blvd","VAULT",43.711016215527,-79.3067574389162,0,"14 Tiago Ave",15,FALSE,"Ward 19 - (14 Tiago Ave)",500,TRUE,NA,"M4B 2A1",NA,"Tiago Ave / Westview  Blvd"
+"7830","Plaxton Dr / St Clair Ave E","VAULT",43.7075175596195,-79.3025206631394,0,"Plaxton Dr / St Clair Ave E",14,FALSE,"Ward 19 - (2889 St Clair Ave E)",500,TRUE,NA,"M4B 1N5",NA,"Plaxton Dr / St Clair Ave E"
+"7831","Victoria Park Ave / Edge Park Ave","VAULT",43.7176786795349,-79.2996158031447,0,"Victoria Park Ave / Edge Park Ave",18,FALSE,"Ward 20 - (15 Edge Park Ave)",500,TRUE,NA,"M1L 2E7",NA,"Victoria Park Ave / Edge Park Ave"
+"7832","Finch Subway Station ","VAULT",43.781877158753,-79.4152850287493,0,"Finch Subway Station ",19,FALSE,"Ward 18 - (2 Bishop Ave)",500,TRUE,NA,"M2M 3T2",NA,"Bishop Ave / Yonge St (Finch Station)"
+"7833","Glencairn Subway Station","VAULT",43.7092576381086,-79.4416910503666,0,"Glencairn TTC Subway Station (Glencairn Ave / Hilmount Ave)",15,FALSE,"Ward 8 (Glencairn TTC Subway)",500,TRUE,NA,"M6B",NA,"Hilmount Ave / Glencairn Ave"
+"7834","Glen Long Community Centre","VAULT",43.7082099264378,-79.4562780871719,0,"35 Glen Long Ave",15,FALSE,"Ward 8 - (35 Glen Long Ave)",500,TRUE,NA,"M6B 2M1",NA,"Ennerdale St / Glengrove Ave W"
+"7835","Caledonia Rd / Lotherton Pathway","VAULT",43.7075643668565,-79.4657147496681,0,"215 Lotherton Pathway",19,FALSE,"Ward 8 - (215 Lotherton Pathway)",500,TRUE,NA,"M6B 2G6",NA,"Caledonia Rd / Lotherton Pathway (north driveway/entrance)"
+"7836","Harvie Ave / Rogers Rd","VAULT",43.684020311357,-79.4529788533035,0,"200 Rogers Rd",19,FALSE,"Ward 9 - (200 Rogers Rd)",530,TRUE,NA,"M6E 1R1",NA,"Harvie Ave / Rogers Rd"
+"7837","Ling Rd / Morningside Ave","VAULT",43.7666638178887,-79.1852176534424,0,"217 Morningside Rd",19,FALSE,"Ward 25 - (217 Morningside Ave)",500,TRUE,NA,"M1E 3E1",NA,"Ling Rd / Morning Side Ave"
+"7838","Lake Shore Blvd W / Legion Rd","VAULT",43.6205263076322,-79.4832022423799,0,"2225 Lake Shore Blvd W",19,FALSE,"Ward 3 - (12355 Lake Shore Blvd W)",350,TRUE,NA,"M8V 0B1",NA,"Lake Shore Blvd W / Legion Rd"
+"7839","Lake Shore Blvd W / Seventeenth St","VAULT",43.598419260319,-79.5156110239426,0,"3140 Lake Shore Blvd W",11,FALSE,"Ward 3 - (3140 Lake Shore Blvd W)",350,TRUE,NA,"M8V 1L4",NA,"Lake Shore Blvd W / Seventeenth St"
+"7840","Mabelle Park","VAULT",43.6453894793256,-79.5276822170925,0,"38 Mabelle Ave",15,FALSE,"Ward 3 - (38 Mabelle Ave)",350,TRUE,NA,"M9A 4X9",NA,"Mabelle Park (Mabelle Ave)"
+"7841","Islington Subway Station (Aberfoyle Cres)","VAULT",43.6456585915462,-79.5233993895493,0,"1243 Islington Ave ",15,FALSE,"Ward 3 - (1243 Islington Ave)",350,TRUE,NA,"M8X 1Y9",NA,"Islington Ave / Aberfoyle Crescent"
+"7842","Lake Shore Blvd W / Long Branch Ave","VAULT",43.5944583319628,-79.5338739085983,0,"3560 Lake Shore Blvd W",11,FALSE,"Ward 3 - (3560 Lake Shore Blvd W)",350,TRUE,NA,"M8W 1N6",NA,"Lake Shore Blvd W / Long Branch Ave"
+"7843","Uno Dr / The Queensway","VAULT",43.6264932999219,-79.5035816764154,0,"748 The Queensway",15,FALSE,"Ward 3 - (748 The Queensway)",350,TRUE,NA,"M8Z 1M9",NA,"Uno Dr / The Queensway"
+"7844","Second St / Lake Shore Blvd W","VAULT",43.601914881185,-79.4994188865429,0,NA,15,FALSE,"Ward 3 - (2765 Lake Shore Blvd W)",350,TRUE,NA,"M8V 1H2",NA,"Second St / Lake Shore Blvd W"
+"7845","Sixth St / Lake Shore Blvd W","VAULT",43.6011622910983,-79.5041604662704,0,"131 Sixth St",15,FALSE,"Ward 3 - (131 Sixth St )",350,TRUE,NA,"M8V 1J4",NA,"Sixth St / Lake Shore Blvd W"
+"7846","Bloor St W / Dundas St W (2)","VAULT",43.6428524464432,-79.5319948920654,0,"3710 Bloor St W",15,FALSE,"Ward 3 - ( 3710 Bloor St W)",100,TRUE,NA,"M9A 1A2",NA,"Bloor St W / Dundas St W "
+"7848","Gerrard St E / Nasmith Ave ","REGULAR",43.6627361877986,-79.3625310074097,0,"Gerrard St E / Gifford St",23,FALSE,"Ward 13 - (407 Gerrard St E) ",350,TRUE,NA,"M5A 2H5",NA,"Gerrard St E / Gifford St "
+"7849","Viewmount Park","VAULT",43.707355726541,-79.4372307220901,0,"169 Viewmount Ave",15,FALSE,"Ward 8 - (169 Viewmount Ave)",350,TRUE,NA,"M6B 1T5",NA,"Shermount Ave/ Viewmount Ave"
+"7850","Maud St / Adelaide St W","SMARTMAPFRAME",43.6460145694434,-79.3996049772635,0,"Maud St / Adelaide St W",16,FALSE,"Ward 10 - (across 460 Adelaide St W)",100,TRUE,NA,"M5V 1Y3",NA,"Maud St / Adelaide St W"
+"7851","Keele St / Ingram Dr","VAULT",43.6987069496669,-79.4756586460327,0,"2221 Keele St ",14,FALSE,"Ward 5 - (2221 Keele St)",350,TRUE,NA,"M6M 3Z5",NA,"Keele St / Ingram Dr"
+"7852","York Recreation Centre","VAULT",43.6881530792451,-79.4821978994057,0,"115 Black Creek Dr",23,FALSE,"Ward 5 - (115 Black Creek Dr)",350,TRUE,NA,"M6M 5B4",NA,"Eglinton Ave W / Black Creek DR"
+"7853","Trethewey Dr / Black Creek Dr","VAULT",43.6954984002798,-79.4880939448267,0,"500 Black Creek Dr",14,FALSE,"Ward 5 - (500 Trethewey Dr)",350,TRUE,NA,"M6M 4C2",NA,"Trethewey Dr / Black Creek DR"
+"7854","Jane St / Haney Ave","VAULT",43.6743457123134,-79.4948437786083,0,"797 Jane St",19,FALSE,"Ward 5 - (797Jane St)",350,TRUE,NA,"M6N 4B6",NA,"Jane St / Haney Ave"
+"7855","Scarlett Rd / Eileen Ave","VAULT",43.6685109065054,-79.5007648392868,0,"75 Scarlett Rd ",15,FALSE,"Ward 5 - (75 Scarlett Rd)",350,TRUE,NA,"M6N 4K3",NA,"Scarlett Rd / Eileen Ave"
+"7856","Scarlett Rd / Old Scarlett Rd ","VAULT",43.6782763066366,-79.506673324012,0,"287 Scarlett Rd",15,FALSE,"Ward 5 - (287 Scarlett Rd)",350,TRUE,NA,"M6N 4L1",NA,"Scarlett Rd / Old Scarlett Rd"
+"7857","Eglinton Ave W / Venn Cres","VAULT",43.6914392068112,-79.4690863479546,0,"2485 Eglinton Ave W",19,FALSE,"Ward 5 - (2485 Eglinton Ave W)",350,TRUE,NA,"M6M 1S8",NA,"Eglinton Ave W / Venn Cres"
+"7858","Rogers Rd / Bicknell Ave","VAULT",43.6818952621549,-79.4736382392868,0,"605 Rogers Rd",23,FALSE,"Ward 5 - (605 Rogers Rd)",350,TRUE,NA,"M6M 1B9",NA,"Rogers Rd / Bicknell Ave"
+"7859","Mallaby Park ","VAULT",43.7061910923971,-79.5326279558197,0,"2394 Weston Rd",15,FALSE,"Ward 5 - (2394 Weston Rd)",350,TRUE,NA,"M9N 1R5",NA,"St. Phillips Dr / Weston Rd"
+"7860","Cruickshank Park","VAULT",43.7023860650084,-79.5259475832415,0,"2196 Weston Rd",15,FALSE,"Ward 5 - (2196 Weston Rd)",350,TRUE,NA,"M9N 1X9",NA,"Cruikshank Park / Humber River Trail"
+"7861","Emmett Ave","VAULT",43.6873551409644,-79.5062331380634,0,"100 Emmett Ave",19,FALSE,"Ward 5 - (100 Emmett Ave)",350,TRUE,NA,"M6M 2E6",NA,"Emmett Ave / Jane St"
+"7862","Jane St / Weston Rd","VAULT",43.691444644143,-79.5015458386925,0,"1390 Weston Rd",15,FALSE,"Ward 5 - (1390 Weston Rd)",350,TRUE,NA,"M6M 4S2",NA,"Weston Rd / Jane St "
+"7863","Jane St / Queens Dr","VAULT",43.706738049623,-79.5047754380287,0,"Jane St / John St",15,FALSE,"Ward 5 - (1815 Jane St)",350,TRUE,NA,"M6L 3C6",NA,"Jane St / John St"
+"7864","Sussex Ave / St George St","REGULAR",43.6653042789654,-79.3993826380287,0,"140 St George St",15,FALSE,"Ward 11 - 140 St George St",300,TRUE,NA,"M5S 3G6",NA,NA
+"7865","2700 Eglinton Ave W","ELECTRICBIKESTATION",43.6907460063715,-79.4782014334433,0,"2700 Eglinton Ave W",43,TRUE,"Ward 5 - ( CP 669 )",500,TRUE,NA,"M6M 1V1",NA,"Municipal Dr"
+"7866","695 Lansdowne Ave ","ELECTRICBIKESTATION",43.6592218437356,-79.4427741024468,0,"695 Lansdowne Ave ",23,TRUE,"Ward 9 - (695 Lansdowne Ave - CP 81)",348,TRUE,NA,"M6H 3Y9",NA,NA
+"7867","15 Price St ","ELECTRICBIKESTATION",43.6799477790745,-79.38994813684,0,"15 Price St ",15,TRUE,"Ward 11 - (CP 195 -15 Price St )",300,TRUE,NA,"M4W 1Y7",NA,"Price St / Yonge St"
+"7868","Sheppard Ave W / Chesswood Dr","VAULT",43.7555839711229,-79.4744603268448,0,"3710  Chesswood Dr",19,FALSE,"Ward 6 - (3710 Chesswood Dr)",350,TRUE,NA,"M3J 2W4",NA,"Sheppard Ave W / Chesswood Dr"
+"7869","Sentinel Rd / Sheppard Ave W","VAULT",43.7438658099767,-79.491816543586,0,"1 Inlet Mews",15,FALSE,"Ward 6 - ( 1 Inlet Mews)",350,TRUE,NA,"M3M 3J8",NA,"Sentinel Rd / Sheppard Ave W"
+"7870","Humber River Hospital ","VAULT",43.7253788418368,-79.487196742189,0,"Humber River Hospital ",15,FALSE,"Ward 6 - (1235 Wilson Ave)",350,TRUE,NA,"M3M 3G8",NA,"Wilson Ave / Morton Shulman Ave"
+"7871","Jane St / Lawrence Ave W","VAULT",43.702340220598,-79.5034738951412,0,"Jane St / Lawrence Ave W",14,FALSE,"Ward 5 - (1675 Jane St)",350,TRUE,NA,"M9N 2R8",NA,"Jane St / Lawrence Ave W"
+"7872","Keele St / Catford Rd","VAULT",43.75919330633,-79.4900104685089,0,"Keele St / Catford Rd",15,FALSE,"Ward 7 - (11 Catford Rd)",350,TRUE,NA,"M3J 1P9",NA,"Keele St / Catford Rd"
+"7873","Sentinel Rd / Finch Ave W","VAULT",43.7607396389248,-79.5000273116394,0,"390 Sentinel Rd",15,FALSE,"Ward 7 - (390 Sentinel Rd)",350,TRUE,NA,"M3J 1V3",NA,"Sentinel Rd / Finch Ave W"
+"7874","The Pond Rd / Ian Macdonald Blvd","VAULT",43.7708672902877,-79.498129906607,0,"85 The Pond Rd ",15,FALSE,"Ward 7 - (85 The Pond Rd)",350,TRUE,NA,"M3J",NA,"The Pond Rd / Ian Macdonald Blvd"
+"7875","Oakdale Community Centre","VAULT",43.7475149603877,-79.5132569853195,0,"350 Grandravine Dr",14,FALSE,"Ward 7 - (350 Grandravine Dr)",350,TRUE,NA,"M3N 1J4",NA,"Grandravine Dr / Jane St"
+"7876","Jane St / Yewtree Blvd","VAULT",43.7553172850243,-79.5170470822784,0,"3925 Jane St",15,FALSE,"Ward 7 - 3925 Jane St",350,TRUE,NA,"M3N 2K1",NA,"Jane St / Yewtree Blvd"
+"7877","Jane St / Yorkwoods Gt","VAULT",43.7503016975738,-79.5157755743439,0,"2801 Jane St",15,FALSE,"Ward 7 - (2801 Jane St)",350,TRUE,NA,"M3N 2H8",NA,"Jane St / Yorkwoods Gt"
+"7878","Weston Rd / Sheppard Ave W","VAULT",43.7326284941509,-79.5381993243286,0,"3100 Weston Rd",15,FALSE,"Ward 7 - (3100 Weston Rd)",350,TRUE,NA,"M9M 2S7",NA,"Weston Rd / Sheppard Ave W"
+"7879","Weston Rd / Lanyard Rd","VAULT",43.748713,-79.541808,0,"3390 Weston Rd ",12,FALSE,"Ward 7 - (3390 Weston Rd)",350,TRUE,NA,"M9M 2X3",NA,"Weston Rd / Lanyard Rd"
+"7880","Lindylou Rd / Lanyard Rd","VAULT",43.7484542140731,-79.5504039969242,0,"137 Lindylou Rd ",15,FALSE,"Ward 7 - (137 Lindylou Rd)",350,TRUE,NA,"M9M 2B5",NA,"Lindylou Rd / Lanyard Rd"
+"7881","Queens Quay E / Merchants' Wharf","VAULT",43.6464302633314,-79.3618163165329,0,"265 Queens Quay E",27,FALSE,"Ward 10 - 265 Queens Quay E",200,TRUE,NA,"M5A 4K9",NA,"Queens Quay E / Merchants' Wharf"
+"7882","Tangiers Rd / Finch Ave W","VAULT",43.7637696413018,-79.4880924259338,0,"1275 Finch Ave W",15,FALSE,"Ward 6 - (1275 Finch Ave W)",350,TRUE,NA,"M3J 2G5",NA,"Tangiers Rd / Finch Ave W"
+"7883","Wynford Heights Cres / Concorde Pl","VAULT",43.7274977825974,-79.3271422220901,0,"48 Wynford Heights Cres",11,FALSE,"Ward 16 - (48 Wynford Heights Cres)",350,TRUE,NA,"M3C 1K6",NA,"Wynford Heights Cres / Concorde Pl"
+"7884","Bartley Park ","VAULT",43.7221116643646,-79.3086483091926,0,"112 Bartley Dr",15,FALSE,"Ward 16 - (112 Bartley Dr)",350,TRUE,NA,"M4A 1C5",NA,"Bartley Dr / Sufi Cres"
+"7885","Brooklawn Ave / Kingston Rd","VAULT",43.7217614006912,-79.2359137196434,0,"2853 Kingston Rd",11,FALSE,"Ward 20 - (2853 Kingston Rd)",350,TRUE,NA,"M1M 1N3",NA,"Brooklawn Ave / Kingston Rd"
+"7886","Jane St / Finch Ave W","VAULT",43.7592922831695,-79.5183741465576,0,"1 York Gate Blvd",15,FALSE,"Ward 7 - (1 York Gate Blvd)",350,TRUE,NA,"M3N 3A1",NA,"Jane St / Finch Ave W"
+"7887","800 Fleet St (North)","ELECTRICBIKESTATION",43.6368285615458,-79.4088416036701,0,"800 Fleet St (@CP 271 - Ward 10) ",43,TRUE,"800 Fleet St (@CP 271 - Ward 10) ",200,TRUE,NA,"M5V 1A9",NA,NA
+"7888","The Kingsway / Ashley Rd","VAULT",43.6627959447884,-79.5195982797622,0,"289 The kingsway",15,FALSE,"Ward 2 - (289 The kingsway)",350,TRUE,NA,"M9A 3T9",NA,"The Kingsway / Ashley Rd"
+"7889","Dundas St W / Prince Edward Dr N","VAULT",43.6603242687655,-79.5115435042297,0,"4208 Dundas St W",19,FALSE,"Ward 2 - (4208 Dundas St W)",300,TRUE,NA,"M8X 1Y6",NA,"Dundas St W / Prince Edward Dr N"
+"7890","60 Broadway Ave","VAULT",43.710244295996,-79.3957874460327,0,"60 Broadway Ave",14,FALSE,"Ward 15 - (60 Broadway Ave)",300,TRUE,NA,"M4P 1T6",NA,"Broadway Ave"
+"7891","Opposite 1103 Leslie St","VAULT",43.7209316459888,-79.3498941635071,0,"Opposite 1103 Leslie St",19,FALSE,"Ward 15 - (opposite 1103 Leslie St)",300,TRUE,NA,"M3C 4G8",NA,"Leslie St / Inn on the Park Dr"
+"7892","Erskine Ave / Redpath Ave","VAULT",43.7121547923695,-79.3942590632294,0,"130 Erskine Ave ",15,FALSE,"Ward 15 - (130 Erskine Ave)",300,TRUE,NA,"M4P 1Z1",NA,"Erskine Ave / Redpath Ave"
+"7893","Overlea Blvd / Thorncliffe Park Dr","VAULT",43.7075559685955,-79.3427202447746,0,"65 Overlea Blvd",19,FALSE,"Ward 15 - (65 Overlea Blvd)",300,TRUE,NA,"M4H 1P1",NA,"Overlea Blvd / Thorncliffe Park DR"
+"7895","Keele St / Lloyd Ave","VAULT",43.6711553264258,-79.4670159775693,0,"590 Keele St",15,FALSE,"Ward 5 - (590 Keele St)",300,TRUE,NA,"M6N 3E4",NA,"Keele St / Lloyd Ave"
+"7896","Arlington Parkette","VAULT",43.6910500519705,-79.4328174649429,0,"460 Arlington Ave",15,FALSE,"Ward 12- (460 Arlington Ave)",300,TRUE,NA,"M6C 3A2",NA,"Arlington Ave / Fernandez Ln"
+"7897","50 Overlea Blvd","VAULT",43.707225,-79.345324,0,"50 Overlea Blvd",15,FALSE,"Ward 15 - (50 Overlea Blvd)",300,TRUE,NA,"M4H 1B6",NA,"Overlea Blvd "
+"7898","University Ave / Gerrard St W - SMART(South)","SMARTMAPFRAME",43.6574815328641,-79.3892139601883,0,"545 University Ave ",16,FALSE,"Ward 11 - (545 University Ave)",100,TRUE,NA,"M5G 1X8",NA,"University Ave / Gerrard St W"
+"7899","Queens Park Cres / College St ","REGULAR",43.6601812763687,-79.3908327152054,0,"144 College St ",11,FALSE,"Ward 11 - (144 College St )",200,TRUE,NA,"M5S 3M2",NA,"Queens Park Cres W / College St"
+"7900","Simcoe St / Elm St","REGULAR",43.6560388417145,-79.3897038773849,0,"Simcoe St / Elm St",10,FALSE,"Ward 11 - (1001 - 522 University Ave)",100,TRUE,NA,"M5G 1W7",NA,NA
+"7901","Bloor St W / Kingsmill Rd","VAULT",43.6492789013174,-79.5031299558197,0,"2836 Bloor St W",11,FALSE,"Ward 3 - (2836 Bloor St W)",300,TRUE,NA,"M8X 1A8",NA,"Bloor St W / Kingsmill Rd"
+"7902","Gunns Rd / Lavender Creek Trail","VAULT",43.6755319731684,-79.4719974006637,0,"Gunns Rd / Lavender Creek Trail",15,FALSE,"Ward 5 - (75 Gunns Rd)",300,TRUE,NA,"M6N 1X5",NA,"Gunns Rd / Weston Rd"
+"7903","St Clair Ave W / Symes Rd","VAULT",43.6700421344167,-79.4789424818056,0,"2236 St Clair Ave W",15,FALSE,"Ward 5 - (2236 St Clair Ave W)",300,TRUE,NA,"M6N 5C1",NA,"St Clair Ave W / Symes Rd"
+"7904","Palmerston Blvd / Lennox St","VAULT",43.6633507099589,-79.4131279831612,0,"523 Palmerston Blvd",11,FALSE,"Ward 11 - (523 Palmerston Blvd)",300,TRUE,NA,"M6G 2P4",NA,"Palmerston Blvd / Lennox St"
+"7905","Palmerston Blvd / Herrick St","VAULT",43.6621553148199,-79.412666442599,0,"480 Palmerston Blvd",11,FALSE,"Ward 11 - (480 Palmerston Blvd)",200,TRUE,NA,"M6G 2P1",NA,"Palmerston Blvd / Herrick St"
+"7906","Princess St / Front St E","REGULAR",43.650297574961,-79.3664846034164,0,"201/207 Princess St",14,FALSE,"Ward 13 - (207 Front St E)",300,TRUE,NA,"M5A 1E8",NA,NA
+"7907","365 lippincott St","ELECTRICBIKESTATION",43.6649482,-79.40947,0,"365 lippincott St",40,TRUE,"365 Lippincott - EBS @ CP 51",300,TRUE,NA,"M5S 1Y5",NA,"365 Lippincott St - South West of Bloor / Bathurst"
+"7909","E.T Seton Park - South ","VAULT",43.7050346185714,-79.3354729203766,0,"E.T Seton Park - South ",23,FALSE,"E.T Seton Park South - Area 2",300,TRUE,NA,"M3C",NA,"E.T Seton Park South / Lower Don Recreation Trail"
+"7910","Eglinton Ave E / Brentcliffe Rd","VAULT",43.7143057930175,-79.3608904504013,0,"939 Eglinton Ave E",15,FALSE,"Ward 15 - (939 Eglinton Ave E )",300,TRUE,NA,"M4G 4E8",NA,"Eglinton Ave E / Brentcliffe Rd"
+"7911","King St W / York St (2)","VAULT",43.647968822765,-79.3831696135265,0,"59 King St W",19,FALSE,"Ward 10 - (59 King St W)",1,TRUE,NA,"M5H 1A1",NA,"King St W / York St"
+"7912","Joe Shuster Way / King St W ","VAULT",43.64039672322,-79.4237424131447,0,"30 Joe Shuster Way",19,FALSE,"Ward 10 - (30 Joe Shuster Way)",100,TRUE,NA,"M6K",NA,NA
+"7913","St. George St / Willcocks St","VAULT",43.6624527444956,-79.3978384219513,0,"St George St / Willcocks St",23,FALSE,"Ward 11 - (100 St. George St)",100,TRUE,NA,"M5S 3G3",NA,NA
+"7914","York St / Wellington St W (2)","VAULT",43.647043061824,-79.3831412068154,0,"100 Wellington St W ",26,FALSE,"Ward 10 - (100 Wellington St W)",5,TRUE,NA,"M5J 2R2",NA,"York St / Wellington St W"
+"7915","Rogers Rd / Watt Ave","VAULT",43.6823368,-79.4680594,0,"500 Rogers Rd",15,FALSE,"Ward 5 - (500 Rogers Rd)",300,TRUE,NA,"M6M 1B3",NA,"Rogers Rd / Watt Ave"
+"7916","University Ave / Pearl St ","VAULT",43.6484302,-79.3855656,0,"University Ave / Pearl St ",19,FALSE,"Ward 10 - (118 Pearl St)",100,TRUE,NA,"M5H 1L2",NA,NA
+"7917","King St W / University Ave","VAULT",43.6478180854091,-79.3842799907379,0,"150 King St W",17,FALSE,"Ward 10 - (150 King St W)",50,TRUE,NA,"M5H 1J9",NA,NA
+"7918","Albion Rd/ Arcot Blvd","VAULT",43.7276217093164,-79.5525490293929,0,"Albion Rd/ Arcot Blvd (Summerlea Park)",15,FALSE,"Ward 1 - (2 Arcot Blvd - Summerlea Park)",500,TRUE,NA,"M9W",NA,NA
+"7919","Armel Ct / Albion Rd","VAULT",43.7215329668732,-79.5455834809678,0,"Armel Ct / Albion Rd",18,FALSE,"Ward 1 - ( 2 Armel Ct)",300,TRUE,NA,"M9W 6L4",NA,NA
+"7920","75 Tandridge Cres","VAULT",43.7295782735861,-79.5469979387272,0,"75 Tandridge Cres",15,FALSE,"Ward 1 - (75 Tandridge Cres)",300,TRUE,NA,"M9W 2N9",NA,"Tandridge Cres / Arcot Blvd"
+"7921","Islington Ave / Finch Ave W","VAULT",43.7444525799176,-79.5682498572166,0,"2765 Islington Ave ",15,FALSE,"Ward 1 - (2765 Islington Ave)",300,TRUE,NA,"M9V 2R2",NA,NA
+"7922","35 Erindale Ave","ELECTRICBIKESTATION",43.67729,-79.35741,0,"35 Erindale Ave",23,TRUE,"Ward 13 - (35 Erindale Ave@CP 78)",100,TRUE,NA,"M4K 1R9",NA,NA
+"7923","Trethewey Dr / Jane St","VAULT",43.6974170705586,-79.5007983091232,0,"725 Trethewey Dr ",19,FALSE,"Ward 5 - (725 Trethewey Dr)",500,TRUE,NA,"M6M 5J7",NA,"Trethewey Dr / Jane St"
+"7924","Duncan St / Adelaide St W - SMART","SMARTMAPFRAME",43.6480966112363,-79.3886454343933,0,"19 Duncan St ",12,FALSE,"Ward 10 - (19 Duncan St)",350,TRUE,NA,"M5H 3G6",NA,"Duncan St / Adelaide St W"
+"7925","Niagara St / King St W - SMART","SMARTMAPFRAME",43.6428637,-79.4071306,0,"801 King St W ",24,FALSE,"Ward 10 - (801 King St W)",350,TRUE,NA,"M5V 3C9",NA,"Niagara St / King St W"
+"7926","McRae Dr / Laird Dr - SMART","SMARTMAPFRAME",43.7097929682259,-79.3638921446049,0,"McRae Dr / Laird Dr",24,FALSE,"Ward - 15( 180 Laird Dr)",300,TRUE,NA,"M4G 3V7",NA,NA
+"7927","Strachan Ave / East Liberty St - SMART","SMARTMAPFRAME",43.6390647023699,-79.4108099616446,0,"Strachan Ave / East Liberty St",24,FALSE,"Ward-10 (39 East Liberty )st",100,TRUE,NA,"M6K 0A7",NA,NA
