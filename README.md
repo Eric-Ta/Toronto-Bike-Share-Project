@@ -1,6 +1,6 @@
 # Toronto-Bike-Share-Project
 
 # Authors: 
-# Akansha Malik
-# Oluwatoni Osho
-# Eric Tan
+Akansha Malik
+Oluwatoni Osho
+Eric Tan
